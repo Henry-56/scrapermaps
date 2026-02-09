@@ -1,0 +1,1704 @@
+{
+  "meta": {
+    "city": "Huancayo",
+    "country": "PE",
+    "sector": "barberías",
+    "search_query": "barberías en Huancayo",
+    "source": "Google Maps Places API",
+    "collected_at": "2026-02-09T16:21:48.915Z",
+    "total_results": 60
+  },
+  "stats": {
+    "total": 60,
+    "with_website": 20,
+    "without_website": 40,
+    "with_phone": 47,
+    "high_rating": 30
+  },
+  "businesses": [
+    {
+      "place_id": "ChIJD6w5VMKXDpERSHA3X-ywli4",
+      "name": "Casa de Crack's Barbería",
+      "category": "barberías",
+      "address": "Jirón Pichcus 377, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0617705,
+        "lng": -75.206194
+      },
+      "phone": "995 019 500",
+      "website": null,
+      "has_website": false,
+      "rating": 5,
+      "reviews": 95,
+      "google_maps_url": "https://maps.google.com/?cid=3357065101507522632",
+      "business_status": "OPERATIONAL",
+      "score": 90,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 10:00–21:00",
+        "martes: 10:00–21:00",
+        "miércoles: 10:00–21:00",
+        "jueves: 10:00–21:00",
+        "viernes: 10:00–21:00",
+        "sábado: 10:00–21:00",
+        "domingo: Cerrado"
+      ]
+    },
+    {
+      "place_id": "ChIJyYcDYxSXDpERnyj50DigYFg",
+      "name": "CENTRAL BARBER",
+      "category": "barberías",
+      "address": "Ca. Real 103, Huancayo 12004, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.064935,
+        "lng": -75.2123664
+      },
+      "phone": "963 442 314",
+      "website": "https://www.facebook.com/LaBarberiadeVasquez.Hyo?mibextid=hu50Ix",
+      "has_website": true,
+      "rating": 4,
+      "reviews": 45,
+      "google_maps_url": "https://maps.google.com/?cid=6368266038986483871",
+      "business_status": "OPERATIONAL",
+      "score": 35,
+      "priority": "low",
+      "opening_hours": [
+        "lunes: 9:30–20:30",
+        "martes: 9:30–20:30",
+        "miércoles: 9:30–20:30",
+        "jueves: 9:30–20:30",
+        "viernes: 9:30–20:30",
+        "sábado: 9:30–20:30",
+        "domingo: 9:00–20:30"
+      ]
+    },
+    {
+      "place_id": "ChIJrXDvpWGXDpEREyv2TehAEcQ",
+      "name": "Sunkha Barberia Spa",
+      "category": "barberías",
+      "address": "Jr Ayacucho 256, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0652895,
+        "lng": -75.2099643
+      },
+      "phone": "954 141 983",
+      "website": "https://www.facebook.com/sunkhabarberia/",
+      "has_website": true,
+      "rating": 4,
+      "reviews": 33,
+      "google_maps_url": "https://maps.google.com/?cid=14128144872522525459",
+      "business_status": "OPERATIONAL",
+      "score": 35,
+      "priority": "low",
+      "opening_hours": [
+        "lunes: 9:30–21:00",
+        "martes: 9:30–21:00",
+        "miércoles: 9:30–21:00",
+        "jueves: 9:30–21:00",
+        "viernes: 9:30–21:00",
+        "sábado: 9:30–21:00",
+        "domingo: 10:00–18:00"
+      ]
+    },
+    {
+      "place_id": "ChIJ3bMiY26XDpERADwpkRDnRG8",
+      "name": "𝕰𝖓𝖙𝖗𝖊 𝕻𝖊𝖑𝖔𝖘 𝖞 𝕭𝖆𝖗𝖇𝖆𝖘",
+      "category": "barberías",
+      "address": "Amazonas 248, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0644264,
+        "lng": -75.2094082
+      },
+      "phone": "902 720 265",
+      "website": "https://www.facebook.com/entrepelosybarbashyo/",
+      "has_website": true,
+      "rating": 5,
+      "reviews": 15,
+      "google_maps_url": "https://maps.google.com/?cid=8017787294967217152",
+      "business_status": "OPERATIONAL",
+      "score": 35,
+      "priority": "low",
+      "opening_hours": [
+        "lunes: 9:00–21:00",
+        "martes: 9:00–21:00",
+        "miércoles: 9:00–21:00",
+        "jueves: 9:00–21:00",
+        "viernes: 9:00–21:00",
+        "sábado: 9:00–21:00",
+        "domingo: Cerrado"
+      ]
+    },
+    {
+      "place_id": "ChIJ8Zw1y-TFBZER3Y4CfSFqgss",
+      "name": "Fernandez Barberia",
+      "category": "barberías",
+      "address": "Av. José Carlos Mariátegui 2466, Lima 15007, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0319756,
+        "lng": -76.9988276
+      },
+      "phone": null,
+      "website": null,
+      "has_website": false,
+      "rating": 5,
+      "reviews": 1,
+      "google_maps_url": "https://maps.google.com/?cid=14664400028735540957",
+      "business_status": "OPERATIONAL",
+      "score": 55,
+      "priority": "medium",
+      "opening_hours": "N/A"
+    },
+    {
+      "place_id": "ChIJa4WAFmmXDpERbRl0vC85zMk",
+      "name": "Clu3 Barber Studio",
+      "category": "barberías",
+      "address": "51, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.06782,
+        "lng": -75.2118396
+      },
+      "phone": "930 773 823",
+      "website": null,
+      "has_website": false,
+      "rating": 5,
+      "reviews": 6,
+      "google_maps_url": "https://maps.google.com/?cid=14541060174060460397",
+      "business_status": "OPERATIONAL",
+      "score": 75,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 9:00–21:00",
+        "martes: 9:00–21:00",
+        "miércoles: 9:00–21:00",
+        "jueves: Abierto 24 horas",
+        "viernes: 9:00–21:00",
+        "sábado: 9:00–21:00",
+        "domingo: 10:00–20:00"
+      ]
+    },
+    {
+      "place_id": "ChIJneyfEdGXDpERtsJX5B7KZFs",
+      "name": "Barbería Luxor Style",
+      "category": "barberías",
+      "address": "Ca. Real 957, Huancayo 12002, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0844529,
+        "lng": -75.2002489
+      },
+      "phone": "902 631 482",
+      "website": "https://m.facebook.com/luxorbarber",
+      "has_website": true,
+      "rating": 4.3,
+      "reviews": 21,
+      "google_maps_url": "https://maps.google.com/?cid=6585610789151294134",
+      "business_status": "OPERATIONAL",
+      "score": 35,
+      "priority": "low",
+      "opening_hours": [
+        "lunes: 9:00–21:00",
+        "martes: 9:00–21:00",
+        "miércoles: 9:00–21:00",
+        "jueves: 9:00–21:00",
+        "viernes: 9:00–21:00",
+        "sábado: 9:00–21:00",
+        "domingo: 9:00–21:00"
+      ]
+    },
+    {
+      "place_id": "ChIJpxHiX0uXDpER_24zKvT1euw",
+      "name": "Retro Style - BARbershop",
+      "category": "barberías",
+      "address": "Costado del colegio CLARETIANO frente a la clinica Alania, Prolongacion Centenario 511, Huancayo 12004, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0622124,
+        "lng": -75.2045198
+      },
+      "phone": "993 473 926",
+      "website": null,
+      "has_website": false,
+      "rating": 5,
+      "reviews": 1,
+      "google_maps_url": "https://maps.google.com/?cid=17040202569138532095",
+      "business_status": "OPERATIONAL",
+      "score": 75,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 10:00–21:00",
+        "martes: 10:00–20:00",
+        "miércoles: 10:00–21:00",
+        "jueves: 10:00–20:00",
+        "viernes: 9:00–21:00",
+        "sábado: 9:00–21:00",
+        "domingo: 11:00–20:00"
+      ]
+    },
+    {
+      "place_id": "ChIJzRBIcgCXDpERINmvEOjkEyQ",
+      "name": "Barbería - José Castro",
+      "category": "barberías",
+      "address": "Tovar de, Pje. Sta. Elena 102, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0658109,
+        "lng": -75.207953
+      },
+      "phone": null,
+      "website": null,
+      "has_website": false,
+      "rating": 5,
+      "reviews": 1,
+      "google_maps_url": "https://maps.google.com/?cid=2599673095286413600",
+      "business_status": "OPERATIONAL",
+      "score": 55,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 9:00–19:00",
+        "martes: 9:00–19:00",
+        "miércoles: 9:00–19:00",
+        "jueves: 9:00–19:00",
+        "viernes: 9:00–19:00",
+        "sábado: 9:00–19:00",
+        "domingo: 9:00–19:00"
+      ]
+    },
+    {
+      "place_id": "ChIJNxKNGTKXDpERG2935Oqxbn8",
+      "name": "Mr. Mostacho",
+      "category": "barberías",
+      "address": "Ca. Real N° 215, Huancayo 12009, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0643304,
+        "lng": -75.2130099
+      },
+      "phone": "995 484 810",
+      "website": "https://www.facebook.com/BarberShopMr.Mostacho/",
+      "has_website": true,
+      "rating": 4.5,
+      "reviews": 11,
+      "google_maps_url": "https://maps.google.com/?cid=9182472312668516123",
+      "business_status": "OPERATIONAL",
+      "score": 35,
+      "priority": "low",
+      "opening_hours": [
+        "lunes: 10:00–22:00",
+        "martes: 10:00–22:00",
+        "miércoles: 10:00–22:00",
+        "jueves: 10:00–22:00",
+        "viernes: 10:00–22:00",
+        "sábado: 10:00–22:00",
+        "domingo: 10:00–22:00"
+      ]
+    },
+    {
+      "place_id": "ChIJc2sS-E-XDpERUqukomNLqmo",
+      "name": "LA BARBERIA",
+      "category": "barberías",
+      "address": "Ca. Real 190, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0661393,
+        "lng": -75.2116535
+      },
+      "phone": "947 014 128",
+      "website": "https://www.facebook.com/profile.php?id=100083465319639",
+      "has_website": true,
+      "rating": 3,
+      "reviews": 4,
+      "google_maps_url": "https://maps.google.com/?cid=7686038605363718994",
+      "business_status": "OPERATIONAL",
+      "score": 20,
+      "priority": "low",
+      "opening_hours": [
+        "lunes: 9:30–21:00",
+        "martes: 9:30–21:00",
+        "miércoles: 9:30–21:00",
+        "jueves: 9:30–21:00",
+        "viernes: 9:30–21:00",
+        "sábado: 9:30–21:00",
+        "domingo: 14:00–21:00"
+      ]
+    },
+    {
+      "place_id": "ChIJ5c63KQCXDpERaylEtflclyI",
+      "name": "Barber studio GOOD STYLE",
+      "category": "barberías",
+      "address": "Jose Olaya 160, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0511362,
+        "lng": -75.1955624
+      },
+      "phone": "914 649 951",
+      "website": "https://www.instagram.com/good_styl3_?igsh=MTU4NWw5azNubm5qMw==",
+      "has_website": true,
+      "rating": 5,
+      "reviews": 4,
+      "google_maps_url": "https://maps.google.com/?cid=2492563146330614123",
+      "business_status": "OPERATIONAL",
+      "score": 35,
+      "priority": "low",
+      "opening_hours": [
+        "lunes: 9:30–22:30",
+        "martes: 9:30–22:30",
+        "miércoles: 9:30–22:30",
+        "jueves: 9:30–22:30",
+        "viernes: 9:30–22:30",
+        "sábado: 9:30–22:30",
+        "domingo: 9:30–22:30"
+      ]
+    },
+    {
+      "place_id": "ChIJB_OzBO-XDpERXkgUyVQYrmE",
+      "name": "Barber Shop Happy Group",
+      "category": "barberías",
+      "address": "San Genaro 185, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0406809,
+        "lng": -75.1935536
+      },
+      "phone": "900 070 069",
+      "website": "https://www.canva.com/design/DAGDeKUCC5o/oGF5KarNISbN17uiDvhpzA/watch?utm_content=DAGDeKUCC5o&utm_campaign=designshare&utm_medium=link&utm_source=editor",
+      "has_website": true,
+      "rating": 5,
+      "reviews": 2,
+      "google_maps_url": "https://maps.google.com/?cid=7038590020056533086",
+      "business_status": "OPERATIONAL",
+      "score": 35,
+      "priority": "low",
+      "opening_hours": [
+        "lunes: 9:00–21:00",
+        "martes: 9:00–21:00",
+        "miércoles: 9:00–21:00",
+        "jueves: 9:00–21:00",
+        "viernes: 9:00–21:00",
+        "sábado: 9:00–21:00",
+        "domingo: 9:00–21:00"
+      ]
+    },
+    {
+      "place_id": "ChIJL98OxeqXDpERvabK09lPm08",
+      "name": "Open Bar-ber",
+      "category": "barberías",
+      "address": "Av San Carlos 157, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0631161,
+        "lng": -75.2090961
+      },
+      "phone": "968 917 680",
+      "website": null,
+      "has_website": false,
+      "rating": 3.9,
+      "reviews": 7,
+      "google_maps_url": "https://maps.google.com/?cid=5736266347366229693",
+      "business_status": "OPERATIONAL",
+      "score": 60,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 10:00–22:00",
+        "martes: 10:00–22:00",
+        "miércoles: 10:00–22:00",
+        "jueves: 10:00–22:00",
+        "viernes: 10:00–22:00",
+        "sábado: 10:00–22:00",
+        "domingo: 12:00–20:00"
+      ]
+    },
+    {
+      "place_id": "ChIJ2w8jM_vFBZERMR9eo5eQI88",
+      "name": "D,leos Barber Salón Spa",
+      "category": "barberías",
+      "address": "Inti 345, El Agustino 15007, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.031778,
+        "lng": -76.99827069999999
+      },
+      "phone": "995 911 933",
+      "website": "https://www.facebook.com/profile.php?id=100008992572019",
+      "has_website": true,
+      "rating": 4,
+      "reviews": 25,
+      "google_maps_url": "https://maps.google.com/?cid=14925932570991271729",
+      "business_status": "OPERATIONAL",
+      "score": 35,
+      "priority": "low",
+      "opening_hours": [
+        "lunes: 10:00–22:00",
+        "martes: 10:00–22:00",
+        "miércoles: 10:00–22:00",
+        "jueves: 10:00–22:00",
+        "viernes: 10:00–22:00",
+        "sábado: 10:00–22:00",
+        "domingo: 10:00–22:00"
+      ]
+    },
+    {
+      "place_id": "ChIJhezFNDiXDpERBkvWg3rU64k",
+      "name": "Nazario barbershop",
+      "category": "barberías",
+      "address": "Prolongación 340, Huancayo 12000, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.068902,
+        "lng": -75.2031487
+      },
+      "phone": "979 575 273",
+      "website": "https://www.youtube.com/@henrynazario4396",
+      "has_website": true,
+      "rating": 2,
+      "reviews": 1,
+      "google_maps_url": "https://maps.google.com/?cid=9938270625386089222",
+      "business_status": "OPERATIONAL",
+      "score": 20,
+      "priority": "low",
+      "opening_hours": [
+        "lunes: 9:30–20:00",
+        "martes: 9:30–20:00",
+        "miércoles: 9:00–20:00",
+        "jueves: 8:30–20:00",
+        "viernes: 8:30–20:00",
+        "sábado: 10:00–18:00",
+        "domingo: Cerrado"
+      ]
+    },
+    {
+      "place_id": "ChIJj4AiLOyXDpERDP1GDo785Ug",
+      "name": "Barber Shop H & G",
+      "category": "barberías",
+      "address": "Av Calmell del Solar 1980 12001, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0410752,
+        "lng": -75.19309249999999
+      },
+      "phone": "900 070 069",
+      "website": "https://barbershophg21.wixsite.com/estilocorte",
+      "has_website": true,
+      "rating": 4.8,
+      "reviews": 4,
+      "google_maps_url": "https://maps.google.com/?cid=5252882227452640524",
+      "business_status": "OPERATIONAL",
+      "score": 35,
+      "priority": "low",
+      "opening_hours": [
+        "lunes: 9:00–21:00",
+        "martes: 9:00–21:00",
+        "miércoles: 9:00–21:00",
+        "jueves: 9:00–21:00",
+        "viernes: 9:00–21:00",
+        "sábado: 9:00–21:00",
+        "domingo: 9:00–21:00"
+      ]
+    },
+    {
+      "place_id": "ChIJ28b0_K2XDpERT2lwO9shfv0",
+      "name": "KALIFFA BARBERIA",
+      "category": "barberías",
+      "address": "Ca. Real 120, Huancayo 53, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0654453,
+        "lng": -75.2120985
+      },
+      "phone": null,
+      "website": null,
+      "has_website": false,
+      "rating": 5,
+      "reviews": 2,
+      "google_maps_url": "https://maps.google.com/?cid=18266074364140087631",
+      "business_status": "OPERATIONAL",
+      "score": 55,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 9:00–20:30",
+        "martes: 9:00–20:30",
+        "miércoles: 9:00–20:30",
+        "jueves: 9:00–20:30",
+        "viernes: 9:00–20:30",
+        "sábado: 9:00–20:30",
+        "domingo: Cerrado"
+      ]
+    },
+    {
+      "place_id": "ChIJDTBj37WXDpER7zkd-tWNHzc",
+      "name": "Yeff - BARBER 💈",
+      "category": "barberías",
+      "address": "Av Calmell del Solar 985, Huancayo 12002, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0518966,
+        "lng": -75.1984229
+      },
+      "phone": "921 582 122",
+      "website": null,
+      "has_website": false,
+      "rating": 3,
+      "reviews": 2,
+      "google_maps_url": "https://maps.google.com/?cid=3972049346527836655",
+      "business_status": "OPERATIONAL",
+      "score": 60,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 10:00–20:30",
+        "martes: 10:00–20:30",
+        "miércoles: 10:00–20:30",
+        "jueves: 10:00–20:30",
+        "viernes: 10:00–20:30",
+        "sábado: 10:30–20:30",
+        "domingo: 10:30–20:30"
+      ]
+    },
+    {
+      "place_id": "ChIJ4YGTLVCWDpERt7O3EUqpJiM",
+      "name": "Vica",
+      "category": "barberías",
+      "address": "Jr. Calixto 745, Huancayo 12003, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0721785,
+        "lng": -75.2102441
+      },
+      "phone": "991 937 112",
+      "website": "https://www.facebook.com/VICA-Barber-Shop-371043310051386/",
+      "has_website": true,
+      "rating": 5,
+      "reviews": 1,
+      "google_maps_url": "https://maps.google.com/?cid=2532897976032408503",
+      "business_status": "OPERATIONAL",
+      "score": 35,
+      "priority": "low",
+      "opening_hours": [
+        "lunes: 9:00–21:00",
+        "martes: 9:00–21:00",
+        "miércoles: 9:00–21:00",
+        "jueves: 9:00–21:00",
+        "viernes: 9:00–21:00",
+        "sábado: 9:00–21:00",
+        "domingo: Cerrado"
+      ]
+    },
+    {
+      "place_id": "ChIJB4DnIU6WDpERAXLMbHFEZUk",
+      "name": "Urban Style Barber Shop - Real 223",
+      "category": "barberías",
+      "address": "Ca. Real 103, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.064935,
+        "lng": -75.2123664
+      },
+      "phone": "952 090 386",
+      "website": null,
+      "has_website": false,
+      "rating": 2,
+      "reviews": 2,
+      "google_maps_url": "https://maps.google.com/?cid=5288708591363846657",
+      "business_status": "OPERATIONAL",
+      "score": 60,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 10:30–22:00",
+        "martes: 10:30–22:00",
+        "miércoles: 10:30–22:00",
+        "jueves: 10:30–22:00",
+        "viernes: 10:30–22:00",
+        "sábado: 10:30–22:00",
+        "domingo: 10:30–22:00"
+      ]
+    },
+    {
+      "place_id": "ChIJfWxOC0-WDpER4Ho9L3QCPC8",
+      "name": "Huancayork",
+      "category": "barberías",
+      "address": "Jr. Arequipa 430, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0685045,
+        "lng": -75.2114241
+      },
+      "phone": "954 800 077",
+      "website": null,
+      "has_website": false,
+      "rating": 4.6,
+      "reviews": 5,
+      "google_maps_url": "https://maps.google.com/?cid=3403598116417272544",
+      "business_status": "OPERATIONAL",
+      "score": 75,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 10:00–21:00",
+        "martes: 10:00–21:00",
+        "miércoles: 10:00–21:00",
+        "jueves: 10:00–21:00",
+        "viernes: 10:00–21:00",
+        "sábado: 10:00–21:00",
+        "domingo: 11:00–18:00"
+      ]
+    },
+    {
+      "place_id": "ChIJIyZvkN2XDpERHUy0LFyYb1s",
+      "name": "Master Class Escuela de Barbería",
+      "category": "barberías",
+      "address": "Av San Carlos 121, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0617375,
+        "lng": -75.2084765
+      },
+      "phone": "972 818 986",
+      "website": null,
+      "has_website": false,
+      "rating": 5,
+      "reviews": 1,
+      "google_maps_url": "https://maps.google.com/?cid=6588652301520751645",
+      "business_status": "OPERATIONAL",
+      "score": 75,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 9:00–19:00",
+        "martes: 9:00–19:00",
+        "miércoles: 9:00–19:00",
+        "jueves: 9:00–19:00",
+        "viernes: 9:00–19:00",
+        "sábado: 9:00–14:00",
+        "domingo: Cerrado"
+      ]
+    },
+    {
+      "place_id": "ChIJu_TRZArGBZERPgLKdjV8hjI",
+      "name": "God Bless Barber -Estudio Tattoo",
+      "category": "barberías",
+      "address": "Av. Las Magnolias 1026, El Agustino 15007, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0320616,
+        "lng": -76.9965118
+      },
+      "phone": "923 275 572",
+      "website": "https://www.facebook.com/GODBLESSBarberShop/",
+      "has_website": true,
+      "rating": 4.8,
+      "reviews": 5,
+      "google_maps_url": "https://maps.google.com/?cid=3640733917843685950",
+      "business_status": "OPERATIONAL",
+      "score": 35,
+      "priority": "low",
+      "opening_hours": [
+        "lunes: 9:30–23:00",
+        "martes: 9:30–23:00",
+        "miércoles: 9:30–23:00",
+        "jueves: 9:30–23:00",
+        "viernes: 9:30–23:00",
+        "sábado: 9:30–23:00",
+        "domingo: 0:30–22:00"
+      ]
+    },
+    {
+      "place_id": "ChIJE9fOlU-WDpER5p86sbBZIDI",
+      "name": "Caprichoss",
+      "category": "barberías",
+      "address": "Jr. Calixto 452, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0699454,
+        "lng": -75.21158989999999
+      },
+      "phone": "980 198 775",
+      "website": null,
+      "has_website": false,
+      "rating": 4.4,
+      "reviews": 8,
+      "google_maps_url": "https://maps.google.com/?cid=3611985516573663206",
+      "business_status": "OPERATIONAL",
+      "score": 75,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 9:00–21:30",
+        "martes: 9:00–21:30",
+        "miércoles: 9:00–21:30",
+        "jueves: 9:00–21:30",
+        "viernes: 9:00–21:30",
+        "sábado: 9:00–21:30",
+        "domingo: 9:00–21:30"
+      ]
+    },
+    {
+      "place_id": "ChIJtw8pAgCVDpERKJ1yV-jzHHE",
+      "name": "BARBERIA MIRYAM",
+      "category": "barberías",
+      "address": "Coronel Parra 1003, Huancayo 12006, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0539275,
+        "lng": -75.2502493
+      },
+      "phone": "941 597 212",
+      "website": null,
+      "has_website": false,
+      "rating": 5,
+      "reviews": 2,
+      "google_maps_url": "https://maps.google.com/?cid=8150657604858846504",
+      "business_status": "OPERATIONAL",
+      "score": 75,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 8:00–23:00",
+        "martes: 8:00–23:00",
+        "miércoles: 8:00–23:00",
+        "jueves: 8:00–23:00",
+        "viernes: 8:00–23:00",
+        "sábado: 8:00–23:00",
+        "domingo: 8:00–23:00"
+      ]
+    },
+    {
+      "place_id": "ChIJJ0LsuyPNDpERXxbL_QkZ67g",
+      "name": "Saul’s Barber Shop",
+      "category": "barberías",
+      "address": "Jirón Pichcus 377, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0617205,
+        "lng": -75.20614139999999
+      },
+      "phone": "995 019 500",
+      "website": null,
+      "has_website": false,
+      "rating": 4,
+      "reviews": 1,
+      "google_maps_url": "https://maps.google.com/?cid=13324771453209089631",
+      "business_status": "OPERATIONAL",
+      "score": 75,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 10:00–21:00",
+        "martes: 10:00–21:00",
+        "miércoles: 10:00–21:00",
+        "jueves: 10:00–21:00",
+        "viernes: 10:00–21:00",
+        "sábado: 10:00–21:00",
+        "domingo: Cerrado"
+      ]
+    },
+    {
+      "place_id": "ChIJEaq87leXDpERCTljtuqR6qQ",
+      "name": "Marthiña",
+      "category": "barberías",
+      "address": "Cto. Los Heroes 335, Huancayo 12004, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0600367,
+        "lng": -75.222946
+      },
+      "phone": null,
+      "website": null,
+      "has_website": false,
+      "rating": 5,
+      "reviews": 1,
+      "google_maps_url": "https://maps.google.com/?cid=11883471004038805769",
+      "business_status": "OPERATIONAL",
+      "score": 55,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 9:00–22:00",
+        "martes: 9:00–22:00",
+        "miércoles: 9:00–22:00",
+        "jueves: 9:00–22:00",
+        "viernes: 9:00–22:00",
+        "sábado: 9:00–22:00",
+        "domingo: Cerrado"
+      ]
+    },
+    {
+      "place_id": "ChIJLYokZ2SXDpERvaDLXbrhaNs",
+      "name": "Kings Domain",
+      "category": "barberías",
+      "address": "Av San Carlos 145, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0615447,
+        "lng": -75.2083124
+      },
+      "phone": "942 611 512",
+      "website": null,
+      "has_website": false,
+      "rating": 5,
+      "reviews": 1,
+      "google_maps_url": "https://maps.google.com/?cid=15810134682437918909",
+      "business_status": "OPERATIONAL",
+      "score": 75,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 10:00–21:00",
+        "martes: 10:00–21:00",
+        "miércoles: 10:00–21:00",
+        "jueves: 10:00–21:00",
+        "viernes: 9:00–21:30",
+        "sábado: 9:00–21:00",
+        "domingo: 10:00–20:00"
+      ]
+    },
+    {
+      "place_id": "ChIJyT42gW-XDpERKxRDTFa7QNY",
+      "name": "La Caballería BarBer shop",
+      "category": "barberías",
+      "address": "5° nivel stand 24 y 25, Ca. Real N°669, Huancayo 12003, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0699767,
+        "lng": -75.209671
+      },
+      "phone": "920 345 432",
+      "website": null,
+      "has_website": false,
+      "rating": 0,
+      "reviews": 0,
+      "google_maps_url": "https://maps.google.com/?cid=15438545501947106347",
+      "business_status": "OPERATIONAL",
+      "score": 60,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 9:00–22:00",
+        "martes: 9:00–22:00",
+        "miércoles: 9:00–22:00",
+        "jueves: 9:00–22:00",
+        "viernes: 9:00–22:00",
+        "sábado: 9:00–22:00",
+        "domingo: 9:00–22:00"
+      ]
+    },
+    {
+      "place_id": "ChIJpTmjiFKXDpERWBBcNMdjSlI",
+      "name": "Barbería Luxor style 2",
+      "category": "barberías",
+      "address": "Jr. Arequipa 348, Huancayo 12002, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0678096,
+        "lng": -75.2118261
+      },
+      "phone": "902 631 482",
+      "website": "https://www.facebook.com/luxorbarber?mibextid=ZbWKwL",
+      "has_website": true,
+      "rating": 4.3,
+      "reviews": 4,
+      "google_maps_url": "https://maps.google.com/?cid=5929661566614769752",
+      "business_status": "OPERATIONAL",
+      "score": 35,
+      "priority": "low",
+      "opening_hours": [
+        "lunes: 10:00–20:30",
+        "martes: 10:00–20:30",
+        "miércoles: 10:00–20:30",
+        "jueves: 10:00–20:30",
+        "viernes: 10:00–20:30",
+        "sábado: 10:00–20:30",
+        "domingo: 10:00–20:30"
+      ]
+    },
+    {
+      "place_id": "ChIJB_cmCHuXDpERX7ZvAKY2CXo",
+      "name": "Barber 123",
+      "category": "barberías",
+      "address": "WQVG+X93, Av. Huancavelica, Huancayo 12006, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0551003,
+        "lng": -75.22406939999999
+      },
+      "phone": null,
+      "website": null,
+      "has_website": false,
+      "rating": 5,
+      "reviews": 2,
+      "google_maps_url": "https://maps.google.com/?cid=8793619834017396319",
+      "business_status": "OPERATIONAL",
+      "score": 55,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 9:30–20:00",
+        "martes: 9:30–20:00",
+        "miércoles: 9:30–20:00",
+        "jueves: 9:30–20:00",
+        "viernes: 9:30–20:00",
+        "sábado: 9:30–12:30, 16:00–20:00",
+        "domingo: Cerrado"
+      ]
+    },
+    {
+      "place_id": "ChIJf9yYYa2XDpERqeWbJBcK6RY",
+      "name": "Barber Shop Mr.Bigotes",
+      "category": "barberías",
+      "address": "Ca. Real 269, Huancayo 12002, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.066867,
+        "lng": -75.2114951
+      },
+      "phone": "902 907 076",
+      "website": "https://www.facebook.com/profile.php?id=100090698331206&mibextid=LQQJ4d",
+      "has_website": true,
+      "rating": 0,
+      "reviews": 0,
+      "google_maps_url": "https://maps.google.com/?cid=1650861832922719657",
+      "business_status": "OPERATIONAL",
+      "score": 20,
+      "priority": "low",
+      "opening_hours": [
+        "lunes: 9:00–21:00",
+        "martes: 9:00–21:00",
+        "miércoles: 9:00–21:00",
+        "jueves: 9:00–21:00",
+        "viernes: 9:00–21:00",
+        "sábado: 9:00–21:00",
+        "domingo: 9:00–18:00"
+      ]
+    },
+    {
+      "place_id": "ChIJY1XmP0WXDpER00gR2v5PWyY",
+      "name": "Briyith Spa-Barberia",
+      "category": "barberías",
+      "address": "12002, Huancayo 12002, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.069701,
+        "lng": -75.2065768
+      },
+      "phone": "931 783 438",
+      "website": null,
+      "has_website": false,
+      "rating": 0,
+      "reviews": 0,
+      "google_maps_url": "https://maps.google.com/?cid=2763890752320784595",
+      "business_status": "OPERATIONAL",
+      "score": 60,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 8:30–8:00",
+        "martes: Cerrado",
+        "miércoles: 8:00–7:00",
+        "jueves: 8:00–7:00",
+        "viernes: 8:00–7:00",
+        "sábado: 8:00–7:00",
+        "domingo: 9:00–8:00"
+      ]
+    },
+    {
+      "place_id": "ChIJsXOrtp-XDpERCN9tnfDI88w",
+      "name": "Barberia RR Vip",
+      "category": "barberías",
+      "address": "Jirón Tarapaca 329, Huancayo 12000, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0743854,
+        "lng": -75.2071775
+      },
+      "phone": "967 918 729",
+      "website": null,
+      "has_website": false,
+      "rating": 0,
+      "reviews": 0,
+      "google_maps_url": "https://maps.google.com/?cid=14768368538836918024",
+      "business_status": "OPERATIONAL",
+      "score": 60,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 9:00–21:00",
+        "martes: 9:00–21:00",
+        "miércoles: 9:00–21:00",
+        "jueves: 9:00–21:00",
+        "viernes: 9:00–21:00",
+        "sábado: 9:00–21:00",
+        "domingo: 9:00–21:00"
+      ]
+    },
+    {
+      "place_id": "ChIJQWKT8oWXDpER4NL5aiXR2pg",
+      "name": "Escuela Nacional de Barberos",
+      "category": "barberías",
+      "address": "Jr. Trujillo 227, Huancayo 12007, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0599027,
+        "lng": -75.21215339999999
+      },
+      "phone": "963 088 653",
+      "website": "http://www.escuelanacionaldebarberos.com/",
+      "has_website": true,
+      "rating": 5,
+      "reviews": 1,
+      "google_maps_url": "https://maps.google.com/?cid=11014345797326721760",
+      "business_status": "OPERATIONAL",
+      "score": 35,
+      "priority": "low",
+      "opening_hours": [
+        "lunes: 8:00–13:00, 15:00–19:00",
+        "martes: 8:00–13:00, 15:00–19:00",
+        "miércoles: 8:00–13:00, 15:00–19:00",
+        "jueves: 8:00–13:00, 15:00–19:00",
+        "viernes: 8:00–13:00, 15:00–19:00",
+        "sábado: 8:00–13:00",
+        "domingo: Cerrado"
+      ]
+    },
+    {
+      "place_id": "ChIJI9X_BACXDpERsmhCGyeSkWA",
+      "name": "Barber 77 Studio",
+      "category": "barberías",
+      "address": "Abancay, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.063412,
+        "lng": -75.2090345
+      },
+      "phone": null,
+      "website": null,
+      "has_website": false,
+      "rating": 0,
+      "reviews": 0,
+      "google_maps_url": "https://maps.google.com/?cid=6958503595922843826",
+      "business_status": "OPERATIONAL",
+      "score": 40,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 10:00–21:00",
+        "martes: 10:00–21:00",
+        "miércoles: 10:00–21:00",
+        "jueves: 10:00–21:00",
+        "viernes: 10:00–21:00",
+        "sábado: 10:00–21:00",
+        "domingo: 10:00–21:00"
+      ]
+    },
+    {
+      "place_id": "ChIJP9rGGkqXDpER08kAN8eKggY",
+      "name": "\"LOOK \" SALÓN & BARBERIA.",
+      "category": "barberías",
+      "address": "Av. Evitamiento 585, Huancayo 12007, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0412501,
+        "lng": -75.2227778
+      },
+      "phone": null,
+      "website": null,
+      "has_website": false,
+      "rating": 4.7,
+      "reviews": 3,
+      "google_maps_url": "https://maps.google.com/?cid=469089899425876435",
+      "business_status": "OPERATIONAL",
+      "score": 55,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 9:00–21:00",
+        "martes: 9:00–21:00",
+        "miércoles: 9:00–21:00",
+        "jueves: 9:00–21:00",
+        "viernes: 9:00–21:00",
+        "sábado: 9:00–21:00",
+        "domingo: 9:00–21:00"
+      ]
+    },
+    {
+      "place_id": "ChIJey88BgCXDpERl8XoBcAufbg",
+      "name": "Varret Barber Studio",
+      "category": "barberías",
+      "address": "Las Retamas 250, Huancayo 12006, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0514459,
+        "lng": -75.22453180000001
+      },
+      "phone": "931 313 190",
+      "website": null,
+      "has_website": false,
+      "rating": 0,
+      "reviews": 0,
+      "google_maps_url": "https://maps.google.com/?cid=13293833077335311767",
+      "business_status": "OPERATIONAL",
+      "score": 60,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 9:00–20:00",
+        "martes: 9:00–20:00",
+        "miércoles: 9:00–20:00",
+        "jueves: 9:00–20:00",
+        "viernes: 9:00–20:00",
+        "sábado: 9:00–20:00",
+        "domingo: 9:00–19:00"
+      ]
+    },
+    {
+      "place_id": "ChIJRVKRFgCXDpERi25MIXA2m8c",
+      "name": "BAZZE STUDIO",
+      "category": "barberías",
+      "address": "Ca. Real 107, Huancayo 12004, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0648658,
+        "lng": -75.2126749
+      },
+      "phone": null,
+      "website": null,
+      "has_website": false,
+      "rating": 5,
+      "reviews": 1,
+      "google_maps_url": "https://maps.google.com/?cid=14383149690160705163",
+      "business_status": "OPERATIONAL",
+      "score": 55,
+      "priority": "medium",
+      "opening_hours": "N/A"
+    },
+    {
+      "place_id": "ChIJ2byK6s2XDpERyDknX5SnsuQ",
+      "name": "Carly",
+      "category": "barberías",
+      "address": "2 Piso, Av Calmell del Solar 1192, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0498625,
+        "lng": -75.1966968
+      },
+      "phone": "953 590 469",
+      "website": null,
+      "has_website": false,
+      "rating": 3,
+      "reviews": 2,
+      "google_maps_url": "https://maps.google.com/?cid=16479418242195470792",
+      "business_status": "OPERATIONAL",
+      "score": 60,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 9:00–21:00",
+        "martes: 9:00–21:00",
+        "miércoles: 9:00–21:00",
+        "jueves: 9:00–21:00",
+        "viernes: 9:00–21:00",
+        "sábado: Cerrado",
+        "domingo: 9:00–21:00"
+      ]
+    },
+    {
+      "place_id": "ChIJqXX8Sk-WDpERA86HU94ETOE",
+      "name": "Noa Salón & Spa",
+      "category": "barberías",
+      "address": "Jr Ayacucho 394, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0661244,
+        "lng": -75.2116336
+      },
+      "phone": "987 860 922",
+      "website": null,
+      "has_website": false,
+      "rating": 0,
+      "reviews": 0,
+      "google_maps_url": "https://maps.google.com/?cid=16234356109694455299",
+      "business_status": "OPERATIONAL",
+      "score": 60,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 9:00–21:00",
+        "martes: 9:00–21:00",
+        "miércoles: 9:00–21:00",
+        "jueves: 9:00–21:00",
+        "viernes: 9:00–21:00",
+        "sábado: 9:00–21:00",
+        "domingo: 9:00–21:00"
+      ]
+    },
+    {
+      "place_id": "ChIJk3MqJo-XDpERnq8A2JMffb0",
+      "name": "Garbo Barberia",
+      "category": "barberías",
+      "address": "Jr. Jorge Chávez 107, Huancayo 12007, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.04804,
+        "lng": -75.2159385
+      },
+      "phone": "963 673 054",
+      "website": "https://www.facebook.com/grabobarbershop/",
+      "has_website": true,
+      "rating": 5,
+      "reviews": 1,
+      "google_maps_url": "https://maps.google.com/?cid=13654104365101789086",
+      "business_status": "OPERATIONAL",
+      "score": 35,
+      "priority": "low",
+      "opening_hours": "N/A"
+    },
+    {
+      "place_id": "ChIJh-T9Y6nPBZER7SuSo79IwNg",
+      "name": "Gian C Barber Machinery smp",
+      "category": "barberías",
+      "address": "Jr. Huancayo 929, San Martín de Porres 15106, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.036177,
+        "lng": -77.0920969
+      },
+      "phone": "977 843 395",
+      "website": "https://www.facebook.com/IMPORTACIONESGENERALGIANC/",
+      "has_website": true,
+      "rating": 5,
+      "reviews": 1,
+      "google_maps_url": "https://maps.google.com/?cid=15618563495641099245",
+      "business_status": "OPERATIONAL",
+      "score": 35,
+      "priority": "low",
+      "opening_hours": [
+        "lunes: 8:00–20:00",
+        "martes: 8:00–20:30",
+        "miércoles: 8:00–20:30",
+        "jueves: 8:00–20:30",
+        "viernes: 8:00–20:30",
+        "sábado: 8:00–20:30",
+        "domingo: 8:00–20:00"
+      ]
+    },
+    {
+      "place_id": "ChIJo1oO1GCXDpEROutkwSROGEA",
+      "name": "Barbershop new royal family",
+      "category": "barberías",
+      "address": "51, Huancayo 12000, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0568165,
+        "lng": -75.2185272
+      },
+      "phone": "916 391 416",
+      "website": null,
+      "has_website": false,
+      "rating": 0,
+      "reviews": 0,
+      "google_maps_url": "https://maps.google.com/?cid=4618527337638849338",
+      "business_status": "OPERATIONAL",
+      "score": 60,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 10:00–19:00",
+        "martes: 10:00–19:00",
+        "miércoles: 10:00–19:00",
+        "jueves: 10:00–19:00",
+        "viernes: 10:00–19:00",
+        "sábado: 10:00–19:00",
+        "domingo: Cerrado"
+      ]
+    },
+    {
+      "place_id": "ChIJpdpCSZeXDpERSt8R31XFcLo",
+      "name": "Chamos barber shop",
+      "category": "barberías",
+      "address": "Amazonas 466, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.066255,
+        "lng": -75.2085486
+      },
+      "phone": null,
+      "website": null,
+      "has_website": false,
+      "rating": 5,
+      "reviews": 2,
+      "google_maps_url": "https://maps.google.com/?cid=13434454661051572042",
+      "business_status": "OPERATIONAL",
+      "score": 55,
+      "priority": "medium",
+      "opening_hours": "N/A"
+    },
+    {
+      "place_id": "ChIJJctNTgCXDpERfhAS5TB0cX0",
+      "name": "Estoico Barbershop",
+      "category": "barberías",
+      "address": "Jr. Lima 1412, Huancayo 12004, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0742187,
+        "lng": -75.2186404
+      },
+      "phone": "920 068 438",
+      "website": "https://www.instagram.com/estoico.barber.shop?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+      "has_website": true,
+      "rating": 0,
+      "reviews": 0,
+      "google_maps_url": "https://maps.google.com/?cid=9039133680459714686",
+      "business_status": "OPERATIONAL",
+      "score": 20,
+      "priority": "low",
+      "opening_hours": [
+        "lunes: 8:30–20:30",
+        "martes: 8:30–20:30",
+        "miércoles: 8:30–20:30",
+        "jueves: 8:30–21:00",
+        "viernes: 8:30–21:00",
+        "sábado: 8:30–21:30",
+        "domingo: 10:00–18:00"
+      ]
+    },
+    {
+      "place_id": "ChIJ76TW2rOXDpERMg4XMAvIAfM",
+      "name": "GUTY Barbershop",
+      "category": "barberías",
+      "address": "av. real 241, Huancayo 12567, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0637687,
+        "lng": -75.2133395
+      },
+      "phone": "936 271 508",
+      "website": null,
+      "has_website": false,
+      "rating": 0,
+      "reviews": 0,
+      "google_maps_url": "https://maps.google.com/?cid=17510496776570211890",
+      "business_status": "OPERATIONAL",
+      "score": 60,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 8:00–21:30",
+        "martes: 8:00–21:30",
+        "miércoles: 8:00–9:30",
+        "jueves: 8:00–9:30",
+        "viernes: 8:00–9:30",
+        "sábado: 8:00–9:30",
+        "domingo: 8:00–9:30"
+      ]
+    },
+    {
+      "place_id": "ChIJL5YypE-WDpERBrVtbvJEttM",
+      "name": "The Capital",
+      "category": "barberías",
+      "address": "Piso: 2, P.º La Breña 192, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0691798,
+        "lng": -75.2108721
+      },
+      "phone": "(064) 203209",
+      "website": null,
+      "has_website": false,
+      "rating": 0,
+      "reviews": 0,
+      "google_maps_url": "https://maps.google.com/?cid=15255456595789591814",
+      "business_status": "OPERATIONAL",
+      "score": 60,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 9:00–21:00",
+        "martes: 9:00–21:00",
+        "miércoles: 9:00–21:00",
+        "jueves: 9:00–21:00",
+        "viernes: 9:00–21:00",
+        "sábado: 9:00–21:00",
+        "domingo: 9:00–21:00"
+      ]
+    },
+    {
+      "place_id": "ChIJPbzQOk6WDpERZGQEMe4o0EI",
+      "name": "Real Steel Cris",
+      "category": "barberías",
+      "address": "Stand 105, Ca. Real 756, Huancayo 12000, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0820347,
+        "lng": -75.2021578
+      },
+      "phone": "976 765 560",
+      "website": null,
+      "has_website": false,
+      "rating": 0,
+      "reviews": 0,
+      "google_maps_url": "https://maps.google.com/?cid=4814393005148759140",
+      "business_status": "OPERATIONAL",
+      "score": 60,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 10:30–21:00",
+        "martes: 10:30–21:00",
+        "miércoles: 10:30–21:00",
+        "jueves: 10:30–21:00",
+        "viernes: 10:30–21:00",
+        "sábado: 10:30–21:00",
+        "domingo: 10:30–21:00"
+      ]
+    },
+    {
+      "place_id": "ChIJsdSN8xCWDpERToxw08TrhAs",
+      "name": "Barber - Shop Spa Precious With Precious With Marley's",
+      "category": "barberías",
+      "address": "WQX8+4RP, Orquidea, Huancayo 12006, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0521596,
+        "lng": -75.2329221
+      },
+      "phone": null,
+      "website": null,
+      "has_website": false,
+      "rating": 5,
+      "reviews": 1,
+      "google_maps_url": "https://maps.google.com/?cid=830047461936499790",
+      "business_status": "OPERATIONAL",
+      "score": 55,
+      "priority": "medium",
+      "opening_hours": "N/A"
+    },
+    {
+      "place_id": "ChIJJdtKkYGXDpERpN4NXZqnbgs",
+      "name": "Barbería",
+      "category": "barberías",
+      "address": "Av 9 de Diciembre 614, 12003, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.084573,
+        "lng": -75.20595999999999
+      },
+      "phone": "950 404 786",
+      "website": null,
+      "has_website": false,
+      "rating": 4.3,
+      "reviews": 11,
+      "google_maps_url": "https://maps.google.com/?cid=823780063283371684",
+      "business_status": "OPERATIONAL",
+      "score": 75,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 10:00–19:00",
+        "martes: 10:00–19:00",
+        "miércoles: 10:00–19:00",
+        "jueves: 10:00–19:00",
+        "viernes: 10:00–19:00",
+        "sábado: 10:00–19:00",
+        "domingo: Cerrado"
+      ]
+    },
+    {
+      "place_id": "ChIJUwu4LkaWDpERIEzbZO6o4q0",
+      "name": "D'Orlando Barber Shop",
+      "category": "barberías",
+      "address": "WQPP+FM6, Ca. Real, Huancayo 12004, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0638451,
+        "lng": -75.2133728
+      },
+      "phone": "918 098 477",
+      "website": null,
+      "has_website": false,
+      "rating": 4.7,
+      "reviews": 3,
+      "google_maps_url": "https://maps.google.com/?cid=12529762855145917472",
+      "business_status": "OPERATIONAL",
+      "score": 75,
+      "priority": "high",
+      "opening_hours": "N/A"
+    },
+    {
+      "place_id": "ChIJQdf8slGXDpERVpD7d_jDWwc",
+      "name": "MACK Barber Shop",
+      "category": "barberías",
+      "address": "Av. Mariátegui #870 12006, Junín 12731, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0559843,
+        "lng": -75.22255990000001
+      },
+      "phone": "989 156 677",
+      "website": "https://www.facebook.com/MACK-Barber-Shop-101381545080089/",
+      "has_website": true,
+      "rating": 5,
+      "reviews": 2,
+      "google_maps_url": "https://maps.google.com/?cid=530232853078446166",
+      "business_status": "OPERATIONAL",
+      "score": 35,
+      "priority": "low",
+      "opening_hours": [
+        "lunes: 9:30–20:30",
+        "martes: 9:30–20:30",
+        "miércoles: 9:30–20:30",
+        "jueves: 9:30–20:30",
+        "viernes: 9:30–20:30",
+        "sábado: 9:30–20:00",
+        "domingo: Cerrado"
+      ]
+    },
+    {
+      "place_id": "ChIJTTu8Zj2WDpERuHX5pSL1OsQ",
+      "name": "Barbería Jorge",
+      "category": "barberías",
+      "address": "Avenida, Julio Sumar 388, Huancayo 12007, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.051739,
+        "lng": -75.2241556
+      },
+      "phone": null,
+      "website": null,
+      "has_website": false,
+      "rating": 0,
+      "reviews": 0,
+      "google_maps_url": "https://maps.google.com/?cid=14139883509245375928",
+      "business_status": "OPERATIONAL",
+      "score": 40,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 10:00–20:00",
+        "martes: 10:00–20:00",
+        "miércoles: 10:00–20:00",
+        "jueves: 10:00–20:00",
+        "viernes: 10:00–20:00",
+        "sábado: 10:00–20:00",
+        "domingo: 10:00–20:00"
+      ]
+    },
+    {
+      "place_id": "ChIJs7Y8CAC9DpER8JJgKsN7XGE",
+      "name": "BARBERÍA IMPERIO",
+      "category": "barberías",
+      "address": "Av. Universitaria 161, Huancayo 12007, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.030029,
+        "lng": -75.2334205
+      },
+      "phone": null,
+      "website": null,
+      "has_website": false,
+      "rating": 0,
+      "reviews": 0,
+      "google_maps_url": "https://maps.google.com/?cid=7015618397696201456",
+      "business_status": "OPERATIONAL",
+      "score": 40,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 8:30–21:00",
+        "martes: 8:30–21:00",
+        "miércoles: 8:30–21:00",
+        "jueves: 8:30–21:00",
+        "viernes: 8:30–21:00",
+        "sábado: 8:30–21:00",
+        "domingo: 9:30–21:00"
+      ]
+    },
+    {
+      "place_id": "ChIJZ3qF_deXDpER522gYTt-Xkk",
+      "name": "Salón de Belleza y Barbería Chío",
+      "category": "barberías",
+      "address": "Jr. Luis Aguilar 1690, Huancayo 12006, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0596779,
+        "lng": -75.2350094
+      },
+      "phone": "914 018 850",
+      "website": null,
+      "has_website": false,
+      "rating": 0,
+      "reviews": 0,
+      "google_maps_url": "https://maps.google.com/?cid=5286801806085615079",
+      "business_status": "OPERATIONAL",
+      "score": 60,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 9:00–21:00",
+        "martes: 9:00–21:00",
+        "miércoles: 9:00–21:00",
+        "jueves: 9:00–21:00",
+        "viernes: 9:00–21:00",
+        "sábado: 9:00–21:00",
+        "domingo: 9:00–21:00"
+      ]
+    },
+    {
+      "place_id": "ChIJp4emIEaWDpERvldZfWRh0kE",
+      "name": "La Navaja Maestra",
+      "category": "barberías",
+      "address": "Ca. Real 257, Huancayo 12004, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.063576,
+        "lng": -75.2134731
+      },
+      "phone": null,
+      "website": null,
+      "has_website": false,
+      "rating": 5,
+      "reviews": 1,
+      "google_maps_url": "https://maps.google.com/?cid=4742960441802184638",
+      "business_status": "OPERATIONAL",
+      "score": 55,
+      "priority": "medium",
+      "opening_hours": "N/A"
+    },
+    {
+      "place_id": "ChIJxbc4FE-WDpERWxIhdBz8Vmg",
+      "name": "Huancayork",
+      "category": "barberías",
+      "address": "Ca. Real 261, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0668358,
+        "lng": -75.21151449999999
+      },
+      "phone": "998 933 649",
+      "website": null,
+      "has_website": false,
+      "rating": 0,
+      "reviews": 0,
+      "google_maps_url": "https://maps.google.com/?cid=7518473827079230043",
+      "business_status": "OPERATIONAL",
+      "score": 60,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 10:00–22:00",
+        "martes: 10:00–22:00",
+        "miércoles: 10:00–22:00",
+        "jueves: 10:00–22:00",
+        "viernes: 10:00–22:00",
+        "sábado: 10:00–22:00",
+        "domingo: Cerrado"
+      ]
+    },
+    {
+      "place_id": "ChIJc4AD242XDpERLB2P2Hf2R7Q",
+      "name": "Salón de Belleza y Barbería Natural Beauty",
+      "category": "barberías",
+      "address": "51, 12004, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0680231,
+        "lng": -75.225759
+      },
+      "phone": "959 922 351",
+      "website": null,
+      "has_website": false,
+      "rating": 5,
+      "reviews": 14,
+      "google_maps_url": "https://maps.google.com/?cid=12990622644768283948",
+      "business_status": "OPERATIONAL",
+      "score": 75,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 9:00–21:00",
+        "martes: 9:00–21:00",
+        "miércoles: 9:00–21:30",
+        "jueves: 9:00–21:00",
+        "viernes: 9:00–21:00",
+        "sábado: 9:00–21:00",
+        "domingo: 9:00–21:00"
+      ]
+    }
+  ]
+}
