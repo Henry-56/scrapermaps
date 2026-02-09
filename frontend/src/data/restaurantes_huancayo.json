@@ -1,0 +1,1728 @@
+{
+  "meta": {
+    "city": "Huancayo",
+    "country": "PE",
+    "sector": "restaurantes",
+    "search_query": "restaurantes en Huancayo",
+    "source": "Google Maps Places API",
+    "collected_at": "2026-02-09T16:17:38.383Z",
+    "total_results": 60
+  },
+  "stats": {
+    "total": 60,
+    "with_website": 27,
+    "without_website": 33,
+    "with_phone": 58,
+    "high_rating": 8
+  },
+  "businesses": [
+    {
+      "place_id": "ChIJz_YLiyKWDpERIVvKxMypo0E",
+      "name": "Restaurante Huancahuasi Huancayo",
+      "category": "restaurantes",
+      "address": "Mariscal Castilla (Real) 2244, Huancayo 12006, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.047438,
+        "lng": -75.22326249999999
+      },
+      "phone": "(064) 244826",
+      "website": "http://www.huancahuasi.com/",
+      "has_website": true,
+      "rating": 4.3,
+      "reviews": 2589,
+      "google_maps_url": "https://maps.google.com/?cid=4729810730609171233",
+      "business_status": "OPERATIONAL",
+      "score": 50,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 7:30–18:00",
+        "martes: 7:30–18:00",
+        "miércoles: 7:30–18:00",
+        "jueves: 7:30–18:00",
+        "viernes: 7:30–18:00",
+        "sábado: 7:30–18:00",
+        "domingo: 7:30–18:00"
+      ]
+    },
+    {
+      "place_id": "ChIJ-cFK-k6WDpERmFmypaxRpRY",
+      "name": "Restaurante Olímpico",
+      "category": "restaurantes",
+      "address": "Av. Giráldez 199, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0684051,
+        "lng": -75.2094803
+      },
+      "phone": "996 526 676",
+      "website": "https://restauranteolimpico.com/",
+      "has_website": true,
+      "rating": 4.1,
+      "reviews": 1113,
+      "google_maps_url": "https://maps.google.com/?cid=1631800241947826584",
+      "business_status": "OPERATIONAL",
+      "score": 50,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 8:00–22:00",
+        "martes: 8:00–22:00",
+        "miércoles: 8:00–22:00",
+        "jueves: 8:00–22:00",
+        "viernes: 8:00–22:00",
+        "sábado: 8:00–22:00",
+        "domingo: 8:00–17:00"
+      ]
+    },
+    {
+      "place_id": "ChIJZdNBrzCWDpERkRiZG6R_wOg",
+      "name": "La Tullpa Restaurante",
+      "category": "restaurantes",
+      "address": "Jiron Atahualpa 145, Huancayo 12007, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0542849,
+        "lng": -75.21233819999999
+      },
+      "phone": "(064) 253649",
+      "website": null,
+      "has_website": false,
+      "rating": 4.1,
+      "reviews": 612,
+      "google_maps_url": "https://maps.google.com/?cid=16771545355142109329",
+      "business_status": "OPERATIONAL",
+      "score": 90,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 11:00–16:30",
+        "martes: 11:00–16:30",
+        "miércoles: 11:00–16:30",
+        "jueves: 11:00–16:30",
+        "viernes: 11:00–16:30",
+        "sábado: 11:00–16:30",
+        "domingo: 11:00–16:30"
+      ]
+    },
+    {
+      "place_id": "ChIJhTxesV-XDpERKw5DEplvfjc",
+      "name": "Café Colonial",
+      "category": "restaurantes",
+      "address": "Jirón Puno 482, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0676861,
+        "lng": -75.2104566
+      },
+      "phone": "901 444 336",
+      "website": "https://cafecolonial.pe/",
+      "has_website": true,
+      "rating": 4.3,
+      "reviews": 1856,
+      "google_maps_url": "https://maps.google.com/?cid=3998756222378642987",
+      "business_status": "OPERATIONAL",
+      "score": 50,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 8:00–1:00",
+        "martes: 8:00–1:00",
+        "miércoles: 8:00–1:00",
+        "jueves: 8:00–1:00",
+        "viernes: 8:00–1:00",
+        "sábado: 8:00–1:30",
+        "domingo: 8:00–1:00"
+      ]
+    },
+    {
+      "place_id": "ChIJ0RklEk-WDpERCMzCwP2DmNE",
+      "name": "INCA Restaurante Fuente de Soda",
+      "category": "restaurantes",
+      "address": "Jirón Puno 530, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0680137,
+        "lng": -75.2110991
+      },
+      "phone": "(064) 232550",
+      "website": null,
+      "has_website": false,
+      "rating": 4.2,
+      "reviews": 1161,
+      "google_maps_url": "https://maps.google.com/?cid=15102966476270914568",
+      "business_status": "OPERATIONAL",
+      "score": 90,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 10:00–23:00",
+        "martes: 10:00–23:00",
+        "miércoles: 10:00–23:00",
+        "jueves: 10:00–23:00",
+        "viernes: 10:00–23:00",
+        "sábado: 10:00–23:00",
+        "domingo: 10:00–23:00"
+      ]
+    },
+    {
+      "place_id": "ChIJc1sdphyXDpERrk5TiS547v4",
+      "name": "Restaurante Campestre Los Girasoles",
+      "category": "restaurantes",
+      "address": "Ca. Real 1820, Huancayo 12000, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0934427,
+        "lng": -75.195178
+      },
+      "phone": "(064) 233872",
+      "website": null,
+      "has_website": false,
+      "rating": 3.9,
+      "reviews": 3683,
+      "google_maps_url": "https://maps.google.com/?cid=18369752071358598830",
+      "business_status": "OPERATIONAL",
+      "score": 75,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 8:00–19:30",
+        "martes: 8:00–19:30",
+        "miércoles: 8:00–19:30",
+        "jueves: 8:00–19:30",
+        "viernes: 8:00–19:30",
+        "sábado: 8:00–19:30",
+        "domingo: 8:00–19:30"
+      ]
+    },
+    {
+      "place_id": "ChIJjUwl5k6WDpERovRdwtKjopc",
+      "name": "Detrás de la Catedral, Restaurante",
+      "category": "restaurantes",
+      "address": "Jr. Ancash 335, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0676162,
+        "lng": -75.2092833
+      },
+      "phone": "964 100 344",
+      "website": "https://www.facebook.com/detrasdelacatedral?mibextid=ZbWKwL",
+      "has_website": true,
+      "rating": 4.1,
+      "reviews": 1163,
+      "google_maps_url": "https://maps.google.com/?cid=10926475771553641634",
+      "business_status": "OPERATIONAL",
+      "score": 50,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 12:00–22:00",
+        "martes: 12:00–22:00",
+        "miércoles: 12:00–22:00",
+        "jueves: 12:00–22:00",
+        "viernes: 12:00–22:00",
+        "sábado: 12:00–17:00",
+        "domingo: 12:00–17:00"
+      ]
+    },
+    {
+      "place_id": "ChIJxXrm_VCWDpERuaJeXTZr_Iw",
+      "name": "Leopardo Restaurant",
+      "category": "restaurantes",
+      "address": "Jr. Huanuco 999, Huancayo 12003, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0748014,
+        "lng": -75.2100111
+      },
+      "phone": "950 715 105",
+      "website": "http://leopardo-restaurant.com/",
+      "has_website": true,
+      "rating": 3.9,
+      "reviews": 1538,
+      "google_maps_url": "https://maps.google.com/?cid=10159112740679885497",
+      "business_status": "OPERATIONAL",
+      "score": 35,
+      "priority": "low",
+      "opening_hours": [
+        "lunes: 7:00–17:30",
+        "martes: 7:00–17:30",
+        "miércoles: 7:00–17:30",
+        "jueves: 7:00–17:30",
+        "viernes: 7:00–17:30",
+        "sábado: 7:00–17:30",
+        "domingo: 7:00–17:30"
+      ]
+    },
+    {
+      "place_id": "ChIJ3YgYGyaXDpERQPDBW7VxiD8",
+      "name": "Joguza Restaurante",
+      "category": "restaurantes",
+      "address": "Jr. Moquegua 250, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0683531,
+        "lng": -75.2125882
+      },
+      "phone": "922 452 477",
+      "website": null,
+      "has_website": false,
+      "rating": 5,
+      "reviews": 22,
+      "google_maps_url": "https://maps.google.com/?cid=4578034044964565056",
+      "business_status": "OPERATIONAL",
+      "score": 75,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 11:00–20:00",
+        "martes: 11:00–20:00",
+        "miércoles: 11:00–20:00",
+        "jueves: 11:00–20:00",
+        "viernes: 11:00–20:00",
+        "sábado: 11:00–20:00",
+        "domingo: Cerrado"
+      ]
+    },
+    {
+      "place_id": "ChIJK6kGS0WWDpERFQDfhF06v88",
+      "name": "El Padrino Restaurante Tradicional Huancaino",
+      "category": "restaurantes",
+      "address": "Av. Huancavelica 463, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0715388,
+        "lng": -75.2141347
+      },
+      "phone": "958 514 142",
+      "website": "https://www.facebook.com/restaurantehuancainoelpadrino/",
+      "has_website": true,
+      "rating": 3.7,
+      "reviews": 1200,
+      "google_maps_url": "https://maps.google.com/?cid=14969747859738394645",
+      "business_status": "OPERATIONAL",
+      "score": 35,
+      "priority": "low",
+      "opening_hours": [
+        "lunes: 6:00–18:00",
+        "martes: 6:00–18:00",
+        "miércoles: 6:00–18:00",
+        "jueves: 6:00–18:00",
+        "viernes: 6:00–18:00",
+        "sábado: 6:00–18:00",
+        "domingo: 6:00–18:00"
+      ]
+    },
+    {
+      "place_id": "ChIJMT_teNKXDpERPfF_axx5ISo",
+      "name": "Inkawara Restaurant",
+      "category": "restaurantes",
+      "address": "San Jorge 691, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0485296,
+        "lng": -75.1978941
+      },
+      "phone": "984 002 931",
+      "website": null,
+      "has_website": false,
+      "rating": 4.1,
+      "reviews": 158,
+      "google_maps_url": "https://maps.google.com/?cid=3035840786794017085",
+      "business_status": "OPERATIONAL",
+      "score": 90,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 8:00–18:00",
+        "martes: 8:00–18:00",
+        "miércoles: 8:00–18:00",
+        "jueves: 8:00–18:00",
+        "viernes: 8:00–18:00",
+        "sábado: 8:00–18:00",
+        "domingo: 8:00–18:00"
+      ]
+    },
+    {
+      "place_id": "ChIJZQ8MzD6XDpERlaR7CVYnMMY",
+      "name": "RESTAURANTE POLLERIA CASA BLANCA",
+      "category": "restaurantes",
+      "address": "Jr. Ica Nueva 1678, Huancayo 12003, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0764846,
+        "lng": -75.2194079
+      },
+      "phone": "983 658 604",
+      "website": null,
+      "has_website": false,
+      "rating": 4,
+      "reviews": 119,
+      "google_maps_url": "https://maps.google.com/?cid=14280957668871611541",
+      "business_status": "OPERATIONAL",
+      "score": 90,
+      "priority": "high",
+      "opening_hours": "N/A"
+    },
+    {
+      "place_id": "ChIJoR5u2CKWDpERGWZWUJTqods",
+      "name": "Restaurante Sabores Peruanos",
+      "category": "restaurantes",
+      "address": "Prolongación 175, 12007, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.049064,
+        "lng": -75.2215216
+      },
+      "phone": "933 210 249",
+      "website": "https://www.facebook.com/pages/Sabores-Peruanos-Huancayo/202180486520545",
+      "has_website": true,
+      "rating": 4,
+      "reviews": 515,
+      "google_maps_url": "https://maps.google.com/?cid=15826188488280532505",
+      "business_status": "OPERATIONAL",
+      "score": 50,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 12:00–18:00",
+        "martes: 12:00–18:00",
+        "miércoles: 12:00–18:00",
+        "jueves: 12:00–18:00",
+        "viernes: 12:00–18:00",
+        "sábado: 12:00–18:00",
+        "domingo: 12:00–18:00"
+      ]
+    },
+    {
+      "place_id": "ChIJiVpUGXuXDpER3p5VPLgeZSA",
+      "name": "LUME Restaurant Gourmet",
+      "category": "restaurantes",
+      "address": "Prolongacion Centenario 514, Huancayo 12004, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0623897,
+        "lng": -75.20435189999999
+      },
+      "phone": "920 389 787",
+      "website": null,
+      "has_website": false,
+      "rating": 4.5,
+      "reviews": 45,
+      "google_maps_url": "https://maps.google.com/?cid=2334305758496530142",
+      "business_status": "OPERATIONAL",
+      "score": 75,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 12:30–23:00",
+        "martes: 12:30–23:00",
+        "miércoles: 12:30–23:00",
+        "jueves: 12:30–23:00",
+        "viernes: 12:30–23:00",
+        "sábado: 12:30–23:00",
+        "domingo: 0:30–4:30"
+      ]
+    },
+    {
+      "place_id": "ChIJwUahzS6XDpERH-USLHBGixM",
+      "name": "Maizal",
+      "category": "restaurantes",
+      "address": "Jr. Ancash 729, Huancayo 12000, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0703708,
+        "lng": -75.2079681
+      },
+      "phone": "960 101 684",
+      "website": null,
+      "has_website": false,
+      "rating": 4.1,
+      "reviews": 18,
+      "google_maps_url": "https://maps.google.com/?cid=1408296756073129247",
+      "business_status": "OPERATIONAL",
+      "score": 75,
+      "priority": "high",
+      "opening_hours": "N/A"
+    },
+    {
+      "place_id": "ChIJIW9iD1CWDpERo3N80YJsXh0",
+      "name": "El Erizo",
+      "category": "restaurantes",
+      "address": "Jr. Junín 627, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0721968,
+        "lng": -75.2126955
+      },
+      "phone": "946 748 684",
+      "website": null,
+      "has_website": false,
+      "rating": 4,
+      "reviews": 705,
+      "google_maps_url": "https://maps.google.com/?cid=2116248184026854307",
+      "business_status": "OPERATIONAL",
+      "score": 90,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 10:30–16:15",
+        "martes: 10:30–16:15",
+        "miércoles: 10:30–16:15",
+        "jueves: 10:30–16:15",
+        "viernes: 10:30–16:15",
+        "sábado: 10:30–16:45",
+        "domingo: 10:30–16:45"
+      ]
+    },
+    {
+      "place_id": "ChIJf1MumoSXDpER7rkVd-hgaq8",
+      "name": "Fontana Lounge Bar & Grill",
+      "category": "restaurantes",
+      "address": "Cto. Los Heroes 526, Huancayo 12004, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0609595,
+        "lng": -75.224884
+      },
+      "phone": "944 449 960",
+      "website": "http://www.fontana.pe/",
+      "has_website": true,
+      "rating": 4.4,
+      "reviews": 217,
+      "google_maps_url": "https://maps.google.com/?cid=12640021855715310062",
+      "business_status": "OPERATIONAL",
+      "score": 50,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 12:30–22:30",
+        "martes: 12:30–23:30",
+        "miércoles: 12:30–23:30",
+        "jueves: 12:30–23:30",
+        "viernes: 12:30–23:30",
+        "sábado: 12:30–23:30",
+        "domingo: 12:30–22:00"
+      ]
+    },
+    {
+      "place_id": "ChIJb-KsrsyXDpERmAjyJXXsuN8",
+      "name": "Del Potro Restaurante",
+      "category": "restaurantes",
+      "address": "Av Calmell del Solar 512, Junín 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.05478,
+        "lng": -75.2013702
+      },
+      "phone": "941 475 068",
+      "website": "https://www.facebook.com/restaurantedelpotro/",
+      "has_website": true,
+      "rating": 3.9,
+      "reviews": 157,
+      "google_maps_url": "https://maps.google.com/?cid=16120894854064638104",
+      "business_status": "OPERATIONAL",
+      "score": 35,
+      "priority": "low",
+      "opening_hours": [
+        "lunes: 8:00–23:00",
+        "martes: 8:00–23:00",
+        "miércoles: 8:00–23:00",
+        "jueves: 8:00–23:00",
+        "viernes: 8:00–23:00",
+        "sábado: 8:00–23:00",
+        "domingo: 8:00–23:00"
+      ]
+    },
+    {
+      "place_id": "ChIJuzNReE6WDpERmhkRlZTXvVw",
+      "name": "El Padrinazo",
+      "category": "restaurantes",
+      "address": "Jr. Calixto 317, Huancayo 12000, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0692251,
+        "lng": -75.2070493
+      },
+      "phone": "(064) 750373",
+      "website": null,
+      "has_website": false,
+      "rating": 3.9,
+      "reviews": 718,
+      "google_maps_url": "https://maps.google.com/?cid=6682734455243741594",
+      "business_status": "OPERATIONAL",
+      "score": 75,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 7:00–15:00",
+        "martes: 7:00–15:00",
+        "miércoles: 7:00–15:00",
+        "jueves: 7:00–15:00",
+        "viernes: 7:00–15:00",
+        "sábado: 7:00–15:00",
+        "domingo: 7:00–15:00"
+      ]
+    },
+    {
+      "place_id": "ChIJZeQNeFWWDpERPqnMReu3tXM",
+      "name": "Batán De Oro grill y tragos",
+      "category": "restaurantes",
+      "address": "Jr. 28 de Julio 625, Huancayo 12003, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0816621,
+        "lng": -75.20395040000001
+      },
+      "phone": "988 880 476",
+      "website": null,
+      "has_website": false,
+      "rating": 3.9,
+      "reviews": 445,
+      "google_maps_url": "https://maps.google.com/?cid=8337772506262579518",
+      "business_status": "OPERATIONAL",
+      "score": 75,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 8:30–16:30",
+        "martes: 8:30–16:30",
+        "miércoles: 8:30–16:30",
+        "jueves: 8:30–16:30",
+        "viernes: 8:30–16:30",
+        "sábado: 8:30–16:30",
+        "domingo: 8:30–16:30"
+      ]
+    },
+    {
+      "place_id": "ChIJKVOgvSCXDpERbwUgUuH2cyY",
+      "name": "Restaurant los alamos de san carlos",
+      "category": "restaurantes",
+      "address": "Alfonso Ugarte, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0581864,
+        "lng": -75.2070147
+      },
+      "phone": null,
+      "website": null,
+      "has_website": false,
+      "rating": 4,
+      "reviews": 167,
+      "google_maps_url": "https://maps.google.com/?cid=2770829643368891759",
+      "business_status": "OPERATIONAL",
+      "score": 70,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: Cerrado",
+        "martes: 11:00–18:00",
+        "miércoles: 11:00–18:00",
+        "jueves: 11:00–18:00",
+        "viernes: 11:00–18:00",
+        "sábado: 11:00–18:00",
+        "domingo: 11:00–18:00"
+      ]
+    },
+    {
+      "place_id": "ChIJPyFQfE6XDpERaZ1XATqXO2o",
+      "name": "Amaro Restaurante",
+      "category": "restaurantes",
+      "address": "Av. Francisco Solano 202, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0603426,
+        "lng": -75.2046968
+      },
+      "phone": "922 060 504",
+      "website": "https://www.unuhotel.com/amaro",
+      "has_website": true,
+      "rating": 4.4,
+      "reviews": 25,
+      "google_maps_url": "https://maps.google.com/?cid=7654878267032706409",
+      "business_status": "OPERATIONAL",
+      "score": 35,
+      "priority": "low",
+      "opening_hours": [
+        "lunes: Cerrado",
+        "martes: 13:00–17:00, 18:00–22:00",
+        "miércoles: 13:00–17:00, 18:00–22:00",
+        "jueves: 13:00–17:00, 18:00–22:00",
+        "viernes: 13:00–17:00, 18:00–23:50",
+        "sábado: 13:00–17:00, 18:00–23:50",
+        "domingo: 13:00–17:00, 18:00–22:00"
+      ]
+    },
+    {
+      "place_id": "ChIJXTXDlE6WDpERt8q4yPvqgL0",
+      "name": "CESAR´S",
+      "category": "restaurantes",
+      "address": "Av. Giráldez 264, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0676215,
+        "lng": -75.2084479
+      },
+      "phone": "917 688 242",
+      "website": "https://facebook.com/cesarpescadosymariscos/?locale2=es_LA",
+      "has_website": true,
+      "rating": 4.1,
+      "reviews": 379,
+      "google_maps_url": "https://maps.google.com/?cid=13655172437312588471",
+      "business_status": "OPERATIONAL",
+      "score": 50,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 9:00–17:00",
+        "martes: 9:00–17:00",
+        "miércoles: 9:00–17:00",
+        "jueves: 9:00–17:00",
+        "viernes: 9:00–17:00",
+        "sábado: 9:00–17:00",
+        "domingo: 9:00–17:00"
+      ]
+    },
+    {
+      "place_id": "ChIJsaIbxU6WDpER4GqVHPG34dU",
+      "name": "\"PARIS\"",
+      "category": "restaurantes",
+      "address": "Jr, Jirón Puno 254, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0668112,
+        "lng": -75.2092639
+      },
+      "phone": "973 631 116",
+      "website": null,
+      "has_website": false,
+      "rating": 4,
+      "reviews": 1470,
+      "google_maps_url": "https://maps.google.com/?cid=15411801646033103584",
+      "business_status": "OPERATIONAL",
+      "score": 90,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 12:00–23:45",
+        "martes: 12:00–23:45",
+        "miércoles: 12:00–23:45",
+        "jueves: 12:00–23:45",
+        "viernes: 12:00–23:45",
+        "sábado: 12:00–23:45",
+        "domingo: 16:00–23:00"
+      ]
+    },
+    {
+      "place_id": "ChIJ34NvfUKXDpEROqlcQmV31m8",
+      "name": "Sabores Peruanos Huancayo",
+      "category": "restaurantes",
+      "address": "Prolongacion Centenario 684, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0614481,
+        "lng": -75.2025895
+      },
+      "phone": "912 262 168",
+      "website": "http://www.sabores-peruanos.com/",
+      "has_website": true,
+      "rating": 3.8,
+      "reviews": 159,
+      "google_maps_url": "https://maps.google.com/?cid=8058759860014852410",
+      "business_status": "OPERATIONAL",
+      "score": 35,
+      "priority": "low",
+      "opening_hours": [
+        "lunes: 9:00–17:00",
+        "martes: 9:00–17:00",
+        "miércoles: 9:00–17:00",
+        "jueves: 9:00–17:00",
+        "viernes: 9:00–17:00",
+        "sábado: 9:00–17:00",
+        "domingo: 8:00–17:00"
+      ]
+    },
+    {
+      "place_id": "ChIJc4BO3k6WDpERegqyl4e9VzM",
+      "name": "COQUI CAFE",
+      "category": "restaurantes",
+      "address": "Jr, Jirón Puno 296, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0672531,
+        "lng": -75.2098066
+      },
+      "phone": "(064) 234707",
+      "website": "http://www.coquicafe.com/",
+      "has_website": true,
+      "rating": 4,
+      "reviews": 1509,
+      "google_maps_url": "https://maps.google.com/?cid=3699634008971414138",
+      "business_status": "OPERATIONAL",
+      "score": 50,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 7:15–22:00",
+        "martes: 7:15–22:00",
+        "miércoles: 7:15–22:00",
+        "jueves: 7:15–22:00",
+        "viernes: 7:15–22:00",
+        "sábado: 7:15–22:00",
+        "domingo: 7:15–13:30"
+      ]
+    },
+    {
+      "place_id": "ChIJA4i-oEWWDpERiQxCU-kxQLY",
+      "name": "Sabor Oxapampino",
+      "category": "restaurantes",
+      "address": "Jiron Cusco 840, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0689402,
+        "lng": -75.21477349999999
+      },
+      "phone": "964 443 055",
+      "website": null,
+      "has_website": false,
+      "rating": 4,
+      "reviews": 157,
+      "google_maps_url": "https://maps.google.com/?cid=13132551391606344841",
+      "business_status": "OPERATIONAL",
+      "score": 90,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 9:00–17:00",
+        "martes: 9:00–17:00",
+        "miércoles: 9:00–17:00",
+        "jueves: 9:00–17:00",
+        "viernes: 9:00–17:00",
+        "sábado: 9:00–17:00",
+        "domingo: 9:00–17:00"
+      ]
+    },
+    {
+      "place_id": "ChIJWybxxAOXDpERD1TL0di19j0",
+      "name": "UCHU Cocina Peruana - Huancayo",
+      "category": "restaurantes",
+      "address": "Jr. Cuzco 129, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0652747,
+        "lng": -75.2076944
+      },
+      "phone": "989 702 442",
+      "website": "https://m.facebook.com/UCHU-Cocina-Peruana-huancayo-635208727121095/",
+      "has_website": true,
+      "rating": 4.3,
+      "reviews": 53,
+      "google_maps_url": "https://maps.google.com/?cid=4464956023421752335",
+      "business_status": "OPERATIONAL",
+      "score": 50,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 8:00–22:00",
+        "martes: 8:00–22:00",
+        "miércoles: 8:00–22:00",
+        "jueves: 8:00–22:00",
+        "viernes: 8:00–22:00",
+        "sábado: 8:00–22:00",
+        "domingo: 9:00–17:00"
+      ]
+    },
+    {
+      "place_id": "ChIJq6rlizqWDpERA_mQXq3cxz8",
+      "name": "LongHorn Grill & Drinks - Huancayo",
+      "category": "restaurantes",
+      "address": "Piso: 3, Real Plaza, Av. Ferrocarril 1035, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0668835,
+        "lng": -75.205146
+      },
+      "phone": "987 959 204",
+      "website": "http://www.longhorn.com.pe/",
+      "has_website": true,
+      "rating": 3.8,
+      "reviews": 136,
+      "google_maps_url": "https://maps.google.com/?cid=4595884581928892675",
+      "business_status": "OPERATIONAL",
+      "score": 35,
+      "priority": "low",
+      "opening_hours": "N/A"
+    },
+    {
+      "place_id": "ChIJXXFxB_SXDpERV3JJyKr2vZ4",
+      "name": "Botánica",
+      "category": "restaurantes",
+      "address": "Jirón Puno 694, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.068402,
+        "lng": -75.2124177
+      },
+      "phone": "992 183 837",
+      "website": "http://botanica.com.pe/",
+      "has_website": true,
+      "rating": 4.1,
+      "reviews": 401,
+      "google_maps_url": "https://maps.google.com/?cid=11438569841956057687",
+      "business_status": "OPERATIONAL",
+      "score": 50,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 7:00–24:00",
+        "martes: 7:00–24:00",
+        "miércoles: 7:00–24:00",
+        "jueves: 7:00–24:00",
+        "viernes: 7:00–1:00",
+        "sábado: 7:00–1:00",
+        "domingo: 15:00–24:00"
+      ]
+    },
+    {
+      "place_id": "ChIJLwErIkWWDpERKYNHddjkkYs",
+      "name": "azotea18",
+      "category": "restaurantes",
+      "address": "Jirón Tacna 234, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0706016,
+        "lng": -75.21543969999999
+      },
+      "phone": "908 802 462",
+      "website": "http://azotea18.com/",
+      "has_website": true,
+      "rating": 3.6,
+      "reviews": 86,
+      "google_maps_url": "https://maps.google.com/?cid=10057071061226717993",
+      "business_status": "OPERATIONAL",
+      "score": 35,
+      "priority": "low",
+      "opening_hours": [
+        "lunes: 12:00–24:00",
+        "martes: 16:00–24:00",
+        "miércoles: 12:00–24:00",
+        "jueves: 12:00–24:00",
+        "viernes: 12:00–1:00",
+        "sábado: 12:00–1:00",
+        "domingo: 12:00–24:00"
+      ]
+    },
+    {
+      "place_id": "ChIJ_-qh5FaXDpERgyaS610moec",
+      "name": "Delinos Huancayo Restaurante Turístico",
+      "category": "restaurantes",
+      "address": "3SB, Huamancaca 12425, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0910121,
+        "lng": -75.2470817
+      },
+      "phone": "981 821 216",
+      "website": null,
+      "has_website": false,
+      "rating": 4.2,
+      "reviews": 42,
+      "google_maps_url": "https://maps.google.com/?cid=16690663878837806723",
+      "business_status": "OPERATIONAL",
+      "score": 75,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 9:00–17:00",
+        "martes: 9:00–17:00",
+        "miércoles: 9:00–17:00",
+        "jueves: 9:00–17:00",
+        "viernes: 9:00–17:00",
+        "sábado: 7:00–17:00",
+        "domingo: 7:00–17:00"
+      ]
+    },
+    {
+      "place_id": "ChIJaSiUoXmXDpERs1ZvjCmmeKA",
+      "name": "RESTAURANT CAMPESTRE LOS ALAMOS DE PILCOMAYO",
+      "category": "restaurantes",
+      "address": "AV. LAS AMERICAS 1080, Huancayo 12000, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0521525,
+        "lng": -75.24660329999999
+      },
+      "phone": "(064) 261177",
+      "website": null,
+      "has_website": false,
+      "rating": 3.8,
+      "reviews": 61,
+      "google_maps_url": "https://maps.google.com/?cid=11563174740653725363",
+      "business_status": "OPERATIONAL",
+      "score": 75,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 10:00–17:30",
+        "martes: Cerrado",
+        "miércoles: 10:00–17:30",
+        "jueves: 10:00–17:30",
+        "viernes: 10:00–17:30",
+        "sábado: 10:00–17:30",
+        "domingo: 10:00–17:30"
+      ]
+    },
+    {
+      "place_id": "ChIJCcLKkjmXDpER4ZdhVadZQos",
+      "name": "Picarones y Anticuchos Parque Túpac",
+      "category": "restaurantes",
+      "address": "Jr. Sta. Isabel 325, Huancayo 12004, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0611591,
+        "lng": -75.2125662
+      },
+      "phone": "964 637 418",
+      "website": "https://www.picaronesparquetupac.com/",
+      "has_website": true,
+      "rating": 4.1,
+      "reviews": 436,
+      "google_maps_url": "https://maps.google.com/?cid=10034681494961756129",
+      "business_status": "OPERATIONAL",
+      "score": 50,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 14:00–23:00",
+        "martes: 14:00–23:00",
+        "miércoles: 14:00–23:00",
+        "jueves: 14:00–23:00",
+        "viernes: 14:00–23:00",
+        "sábado: 14:00–23:00",
+        "domingo: 14:00–23:00"
+      ]
+    },
+    {
+      "place_id": "ChIJY5lmEU6WDpERft9Fl2BIbbQ",
+      "name": "729",
+      "category": "restaurantes",
+      "address": "Jr. Ancash 729, Huancayo 12000, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0703708,
+        "lng": -75.2079681
+      },
+      "phone": "(064) 231072",
+      "website": null,
+      "has_website": false,
+      "rating": 4.3,
+      "reviews": 137,
+      "google_maps_url": "https://maps.google.com/?cid=13001127278980489086",
+      "business_status": "OPERATIONAL",
+      "score": 90,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 9:00–23:00",
+        "martes: 9:00–23:00",
+        "miércoles: 9:00–23:00",
+        "jueves: 9:00–23:00",
+        "viernes: 9:00–23:00",
+        "sábado: 9:00–23:00",
+        "domingo: 9:00–23:00"
+      ]
+    },
+    {
+      "place_id": "ChIJf9cqGE6XDpER3TXlFi8GWJc",
+      "name": "Don Salmón Huancayo",
+      "category": "restaurantes",
+      "address": "Pje Minorus 115, 12000, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0492924,
+        "lng": -75.2103431
+      },
+      "phone": "958 008 857",
+      "website": null,
+      "has_website": false,
+      "rating": 4.3,
+      "reviews": 67,
+      "google_maps_url": "https://maps.google.com/?cid=10905473296995005917",
+      "business_status": "OPERATIONAL",
+      "score": 90,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 9:00–16:30",
+        "martes: 9:00–16:30",
+        "miércoles: 9:00–16:30",
+        "jueves: 9:00–16:30",
+        "viernes: 9:00–16:30",
+        "sábado: 9:00–16:30",
+        "domingo: 9:00–16:30"
+      ]
+    },
+    {
+      "place_id": "ChIJnQlCDGCXDpER3m72DRBR4ow",
+      "name": "Restaurant Los Balcones",
+      "category": "restaurantes",
+      "address": "Jr, Jirón Puno 290, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.067134,
+        "lng": -75.209638
+      },
+      "phone": "964 051 403",
+      "website": null,
+      "has_website": false,
+      "rating": 3.7,
+      "reviews": 58,
+      "google_maps_url": "https://maps.google.com/?cid=10151765639442099934",
+      "business_status": "OPERATIONAL",
+      "score": 75,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 7:00–22:00",
+        "martes: 7:00–22:00",
+        "miércoles: 7:00–22:00",
+        "jueves: 7:00–22:00",
+        "viernes: 7:00–22:00",
+        "sábado: 7:00–22:00",
+        "domingo: 7:00–22:00"
+      ]
+    },
+    {
+      "place_id": "ChIJWdyp6z6WDpEROnuk6iGkYzI",
+      "name": "El Peje Fusión",
+      "category": "restaurantes",
+      "address": "Jr. Pedro Gálvez 766, Huancayo 12004, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0570296,
+        "lng": -75.2204623
+      },
+      "phone": "993 119 882",
+      "website": null,
+      "has_website": false,
+      "rating": 3.8,
+      "reviews": 403,
+      "google_maps_url": "https://maps.google.com/?cid=3630926190168275770",
+      "business_status": "OPERATIONAL",
+      "score": 75,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 10:00–16:00",
+        "martes: 10:00–16:00",
+        "miércoles: 10:00–16:00",
+        "jueves: 10:00–16:00",
+        "viernes: 10:00–16:00",
+        "sábado: 10:00–16:00",
+        "domingo: 10:00–16:00"
+      ]
+    },
+    {
+      "place_id": "ChIJQxRX5lGWDpERvl2I36t6rjs",
+      "name": "El Mesón",
+      "category": "restaurantes",
+      "address": "Ca. Real 917, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0720487,
+        "lng": -75.2082942
+      },
+      "phone": "(064) 597355",
+      "website": null,
+      "has_website": false,
+      "rating": 3.6,
+      "reviews": 1394,
+      "google_maps_url": "https://maps.google.com/?cid=4300509572793654718",
+      "business_status": "OPERATIONAL",
+      "score": 75,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 11:00–23:00",
+        "martes: 11:00–23:00",
+        "miércoles: 11:00–23:00",
+        "jueves: 11:00–23:00",
+        "viernes: 11:00–23:00",
+        "sábado: 11:00–23:00",
+        "domingo: 11:00–23:00"
+      ]
+    },
+    {
+      "place_id": "ChIJkfeyrzSWDpERnMUfrGVE4yY",
+      "name": "Daruma Restaurant Café",
+      "category": "restaurantes",
+      "address": "Av Calmell del Solar 482, Huancayo 00064, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.055262,
+        "lng": -75.2019043
+      },
+      "phone": "987 429 968",
+      "website": null,
+      "has_website": false,
+      "rating": 4.3,
+      "reviews": 322,
+      "google_maps_url": "https://maps.google.com/?cid=2802158596624729500",
+      "business_status": "OPERATIONAL",
+      "score": 90,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 13:30–21:30",
+        "martes: 13:30–21:30",
+        "miércoles: 13:30–21:30",
+        "jueves: 13:30–21:30",
+        "viernes: 13:30–21:30",
+        "sábado: 13:30–21:30",
+        "domingo: Cerrado"
+      ]
+    },
+    {
+      "place_id": "ChIJT6S7Y0eWDpERHn64r4rHjYQ",
+      "name": "El Consulado Arequipeño",
+      "category": "restaurantes",
+      "address": "Jr. Parra del Riego 658, Huancayo 12004, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0610322,
+        "lng": -75.2168215
+      },
+      "phone": "907 046 729",
+      "website": null,
+      "has_website": false,
+      "rating": 4.1,
+      "reviews": 403,
+      "google_maps_url": "https://maps.google.com/?cid=9551509783190208030",
+      "business_status": "OPERATIONAL",
+      "score": 90,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: Cerrado",
+        "martes: 9:00–17:00",
+        "miércoles: 9:00–17:00",
+        "jueves: 9:00–17:00",
+        "viernes: 9:00–17:00",
+        "sábado: 9:00–17:00",
+        "domingo: 9:00–17:00"
+      ]
+    },
+    {
+      "place_id": "ChIJ1_Op3GSXDpER3aGuJaUL5lM",
+      "name": "Dónde Vilela, El Cantarito, Barra Chiclayana",
+      "category": "restaurantes",
+      "address": "Sta. Maria 198, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0564009,
+        "lng": -75.2038544
+      },
+      "phone": "964 803 737",
+      "website": null,
+      "has_website": false,
+      "rating": 4,
+      "reviews": 69,
+      "google_maps_url": "https://maps.google.com/?cid=6045532353721180637",
+      "business_status": "OPERATIONAL",
+      "score": 90,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 10:00–15:00",
+        "martes: 10:00–15:00",
+        "miércoles: 10:00–15:00",
+        "jueves: 10:00–15:00",
+        "viernes: 10:00–15:00",
+        "sábado: 10:00–15:00",
+        "domingo: 10:00–15:00"
+      ]
+    },
+    {
+      "place_id": "ChIJn3ER_E6WDpERZacDhjU3dVY",
+      "name": "El Meson Tambo",
+      "category": "restaurantes",
+      "address": "Av. Giráldez 189, Huancayo 12000, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0583438,
+        "lng": -75.2167656
+      },
+      "phone": "(064) 999999",
+      "website": null,
+      "has_website": false,
+      "rating": 3.7,
+      "reviews": 693,
+      "google_maps_url": "https://maps.google.com/?cid=6229946362558130021",
+      "business_status": "OPERATIONAL",
+      "score": 75,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 11:00–23:00",
+        "martes: 11:00–23:00",
+        "miércoles: 11:00–23:00",
+        "jueves: 11:00–23:00",
+        "viernes: 11:00–23:00",
+        "sábado: 11:00–23:00",
+        "domingo: 11:00–23:00"
+      ]
+    },
+    {
+      "place_id": "ChIJ_____9yWDpERoffPmfpYy6M",
+      "name": "Huancayo Junin",
+      "category": "restaurantes",
+      "address": "12051, Huancan 12051, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.1077165,
+        "lng": -75.2099091
+      },
+      "phone": "965 291 573",
+      "website": null,
+      "has_website": false,
+      "rating": 4.5,
+      "reviews": 65,
+      "google_maps_url": "https://maps.google.com/?cid=11802625081800128417",
+      "business_status": "OPERATIONAL",
+      "score": 90,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: Cerrado",
+        "martes: Cerrado",
+        "miércoles: Cerrado",
+        "jueves: Cerrado",
+        "viernes: Cerrado",
+        "sábado: 10:00–18:00",
+        "domingo: Cerrado"
+      ]
+    },
+    {
+      "place_id": "ChIJzd8D_gmXDpERAb3_mGPpZLU",
+      "name": "Restaurante El Huacon",
+      "category": "restaurantes",
+      "address": "Jr. Huanuco 810, Huancayo 12003, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0753077,
+        "lng": -75.21093599999999
+      },
+      "phone": "964 860 908",
+      "website": null,
+      "has_website": false,
+      "rating": 4.2,
+      "reviews": 21,
+      "google_maps_url": "https://maps.google.com/?cid=13070828632513953025",
+      "business_status": "OPERATIONAL",
+      "score": 75,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 10:00–18:00",
+        "martes: Cerrado",
+        "miércoles: 10:00–18:00",
+        "jueves: 10:00–18:00",
+        "viernes: 10:00–18:00",
+        "sábado: 10:00–18:00",
+        "domingo: 10:00–18:00"
+      ]
+    },
+    {
+      "place_id": "ChIJCUfQ-k6WDpERb-JzNZz-oMA",
+      "name": "La Leña",
+      "category": "restaurantes",
+      "address": "Jr. Ancash 393, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0680542,
+        "lng": -75.2093984
+      },
+      "phone": "(064) 227813",
+      "website": null,
+      "has_website": false,
+      "rating": 3.6,
+      "reviews": 597,
+      "google_maps_url": "https://maps.google.com/?cid=13880373998421009007",
+      "business_status": "OPERATIONAL",
+      "score": 75,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 12:00–24:00",
+        "martes: 12:00–24:00",
+        "miércoles: 12:00–24:00",
+        "jueves: 12:00–24:00",
+        "viernes: 12:00–24:00",
+        "sábado: 12:00–24:00",
+        "domingo: 12:00–24:00"
+      ]
+    },
+    {
+      "place_id": "ChIJ07bwU4yXDpER_xdMqCun4jg",
+      "name": "ROCK AND WINGS HUANCAYO",
+      "category": "restaurantes",
+      "address": "Av. Francisco Solano 596, Junín 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0628105,
+        "lng": -75.2033311
+      },
+      "phone": "997 447 652",
+      "website": "https://www.instagram.com/rockandwingshuancayo/",
+      "has_website": true,
+      "rating": 4.5,
+      "reviews": 18,
+      "google_maps_url": "https://maps.google.com/?cid=4099022416809564159",
+      "business_status": "OPERATIONAL",
+      "score": 35,
+      "priority": "low",
+      "opening_hours": [
+        "lunes: 17:30–23:00",
+        "martes: 17:30–23:00",
+        "miércoles: 17:30–23:00",
+        "jueves: 17:30–23:00",
+        "viernes: 17:30–23:00",
+        "sábado: 17:30–23:00",
+        "domingo: Cerrado"
+      ]
+    },
+    {
+      "place_id": "ChIJz8FuaEaWDpERZqJNChhjKSY",
+      "name": "Los Girasoles",
+      "category": "restaurantes",
+      "address": "Moquegua 135, Huancayo 12004, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.06493,
+        "lng": -75.21504469999999
+      },
+      "phone": "(064) 395728",
+      "website": null,
+      "has_website": false,
+      "rating": 3.9,
+      "reviews": 296,
+      "google_maps_url": "https://maps.google.com/?cid=2749838002389623398",
+      "business_status": "OPERATIONAL",
+      "score": 75,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 9:00–20:00",
+        "martes: 9:00–20:00",
+        "miércoles: 9:00–20:00",
+        "jueves: 9:00–20:00",
+        "viernes: 9:00–20:00",
+        "sábado: 9:00–20:00",
+        "domingo: 9:00–20:00"
+      ]
+    },
+    {
+      "place_id": "ChIJefscDQCXDpERFp0RYLfJjYw",
+      "name": "El Paisita Taberna Criolla",
+      "category": "restaurantes",
+      "address": "Manchego Muñoz 267, 12007, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0581804,
+        "lng": -75.20927449999999
+      },
+      "phone": "929 918 561",
+      "website": null,
+      "has_website": false,
+      "rating": 3.7,
+      "reviews": 13,
+      "google_maps_url": "https://maps.google.com/?cid=10127972926454078742",
+      "business_status": "OPERATIONAL",
+      "score": 60,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 8:30–16:00",
+        "martes: 8:30–16:00",
+        "miércoles: 8:30–16:00",
+        "jueves: 8:30–16:00",
+        "viernes: 8:30–16:00",
+        "sábado: 8:30–16:00",
+        "domingo: 8:30–16:00"
+      ]
+    },
+    {
+      "place_id": "ChIJ92kwlJeXDpERK88syDDOlmY",
+      "name": "Chifa Pan Gu Restaurante Asiatico",
+      "category": "restaurantes",
+      "address": "12003, Huancayo 12003, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0604952,
+        "lng": -75.1991705
+      },
+      "phone": "946 467 687",
+      "website": null,
+      "has_website": false,
+      "rating": 4.5,
+      "reviews": 110,
+      "google_maps_url": "https://maps.google.com/?cid=7392322547287379755",
+      "business_status": "OPERATIONAL",
+      "score": 90,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 12:30–22:00",
+        "martes: 12:30–22:00",
+        "miércoles: 12:30–22:00",
+        "jueves: 12:30–22:00",
+        "viernes: 12:30–22:30",
+        "sábado: 12:30–22:30",
+        "domingo: 12:30–22:00"
+      ]
+    },
+    {
+      "place_id": "ChIJ_U_lKE-WDpERAothnc0R3d0",
+      "name": "Mamá Meche Sangucheria",
+      "category": "restaurantes",
+      "address": "Jiron Cusco 299, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0666971,
+        "lng": -75.2100991
+      },
+      "phone": "(064) 412734",
+      "website": "https://www.facebook.com/mamamechesangucheria",
+      "has_website": true,
+      "rating": 4,
+      "reviews": 366,
+      "google_maps_url": "https://maps.google.com/?cid=15986953827041512194",
+      "business_status": "OPERATIONAL",
+      "score": 50,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 8:00–23:00",
+        "martes: 8:00–23:00",
+        "miércoles: 8:00–23:00",
+        "jueves: 8:00–23:00",
+        "viernes: 8:00–23:00",
+        "sábado: 8:00–23:00",
+        "domingo: Cerrado"
+      ]
+    },
+    {
+      "place_id": "ChIJtwIOiqeXDpERlAmmu2y0Ylg",
+      "name": "KHUNAN Bagels, Burgers y Más",
+      "category": "restaurantes",
+      "address": "Uruguay 884, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0592005,
+        "lng": -75.202631
+      },
+      "phone": "932 164 673",
+      "website": "https://www.facebook.com/khunan.pe",
+      "has_website": true,
+      "rating": 4.7,
+      "reviews": 273,
+      "google_maps_url": "https://maps.google.com/?cid=6368851202152991124",
+      "business_status": "OPERATIONAL",
+      "score": 50,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 17:30–22:30",
+        "martes: 17:30–22:30",
+        "miércoles: 17:30–22:30",
+        "jueves: 17:30–22:30",
+        "viernes: 17:30–22:30",
+        "sábado: 17:30–22:30",
+        "domingo: Cerrado"
+      ]
+    },
+    {
+      "place_id": "ChIJAQAAtEmWDpERhhA4HRyz_Kw",
+      "name": "Chili's",
+      "category": "restaurantes",
+      "address": "Open Plaza Huancayo, Av. Ferrocarril 146, Huancayo 12007, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0624094,
+        "lng": -75.20971709999999
+      },
+      "phone": "(01) 6100010",
+      "website": "https://www.chilis.pe/",
+      "has_website": true,
+      "rating": 4.5,
+      "reviews": 645,
+      "google_maps_url": "https://maps.google.com/?cid=12465034801985360006",
+      "business_status": "OPERATIONAL",
+      "score": 50,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 12:00–23:00",
+        "martes: 12:00–23:00",
+        "miércoles: 12:00–23:00",
+        "jueves: 12:00–23:00",
+        "viernes: 12:00–23:00",
+        "sábado: 12:00–23:00",
+        "domingo: 12:00–23:00"
+      ]
+    },
+    {
+      "place_id": "ChIJTaFmQTaXDpER5-JGR5dKdbU",
+      "name": "Wamblitas Social Bar",
+      "category": "restaurantes",
+      "address": "Jirón Puno 545, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0680765,
+        "lng": -75.2110928
+      },
+      "phone": "960 606 243",
+      "website": "https://www.facebook.com/wamblitasperu",
+      "has_website": true,
+      "rating": 4.5,
+      "reviews": 74,
+      "google_maps_url": "https://maps.google.com/?cid=13075439106736448231",
+      "business_status": "OPERATIONAL",
+      "score": 50,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 17:00–24:00",
+        "martes: 12:00–16:00, 17:00–24:00",
+        "miércoles: 12:00–16:00, 17:00–24:00",
+        "jueves: 12:00–16:00, 17:00–24:00",
+        "viernes: 12:00–16:00, 17:00–24:00",
+        "sábado: 12:00–16:00, 17:00–24:00",
+        "domingo: 8:30–23:30"
+      ]
+    },
+    {
+      "place_id": "ChIJVQoicU-WDpER5J3FaNIcHuw",
+      "name": "Don Tomato",
+      "category": "restaurantes",
+      "address": "Jirón Puno 646, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0681322,
+        "lng": -75.2121698
+      },
+      "phone": "(064) 235884",
+      "website": null,
+      "has_website": false,
+      "rating": 4.3,
+      "reviews": 227,
+      "google_maps_url": "https://maps.google.com/?cid=17014068132278803940",
+      "business_status": "OPERATIONAL",
+      "score": 90,
+      "priority": "high",
+      "opening_hours": [
+        "lunes: 17:00–22:30",
+        "martes: 17:00–22:30",
+        "miércoles: 17:00–22:30",
+        "jueves: 17:00–22:30",
+        "viernes: 17:00–22:30",
+        "sábado: 17:00–22:30",
+        "domingo: Cerrado"
+      ]
+    },
+    {
+      "place_id": "ChIJsabGhkuWDpERTHVDY5YWS3I",
+      "name": "La Cabaña Restaurant Pizzeria",
+      "category": "restaurantes",
+      "address": "Jose Galvez 400 Entre Prologación Cusco y Galvez Al Costado del Centro de Monitoreo del SATH Huancayo PE, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0611758,
+        "lng": -75.2000087
+      },
+      "phone": "(064) 393298",
+      "website": "http://www.pizzerialacabana.org/",
+      "has_website": true,
+      "rating": 4.2,
+      "reviews": 421,
+      "google_maps_url": "https://maps.google.com/?cid=8235701178743354700",
+      "business_status": "OPERATIONAL",
+      "score": 50,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: 17:00–23:30",
+        "martes: 17:00–23:30",
+        "miércoles: 17:00–23:30",
+        "jueves: 17:00–23:30",
+        "viernes: 17:00–23:30",
+        "sábado: 17:00–23:30",
+        "domingo: 17:00–23:30"
+      ]
+    },
+    {
+      "place_id": "ChIJ6QC56xqXDpER1ASHR2g4Om0",
+      "name": "Nutri bubble",
+      "category": "restaurantes",
+      "address": "JU-108 301, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0666992,
+        "lng": -75.21029209999999
+      },
+      "phone": null,
+      "website": null,
+      "has_website": false,
+      "rating": 4.3,
+      "reviews": 47,
+      "google_maps_url": "https://maps.google.com/?cid=7870665319311148244",
+      "business_status": "OPERATIONAL",
+      "score": 55,
+      "priority": "medium",
+      "opening_hours": "N/A"
+    },
+    {
+      "place_id": "ChIJhdknhVGWDpERnTWkaKmmrsw",
+      "name": "Grupo Ekanlu Tinkuy El Sabor",
+      "category": "restaurantes",
+      "address": "Jr. Huanuco 467, Huancayo 12001, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0736913,
+        "lng": -75.2078131
+      },
+      "phone": "957 168 302",
+      "website": "http://www.grupoekanlu.com/",
+      "has_website": true,
+      "rating": 3.7,
+      "reviews": 243,
+      "google_maps_url": "https://maps.google.com/?cid=14748909076220229021",
+      "business_status": "OPERATIONAL",
+      "score": 35,
+      "priority": "low",
+      "opening_hours": [
+        "lunes: 15:00–24:00",
+        "martes: 15:00–24:00",
+        "miércoles: 15:00–24:00",
+        "jueves: 15:00–24:00",
+        "viernes: 15:00–24:00",
+        "sábado: 15:00–24:00",
+        "domingo: 15:00–24:00"
+      ]
+    },
+    {
+      "place_id": "ChIJl5EORl6WDpEReOqJqvEOE94",
+      "name": "Restaurante Campestre LAS RETAMAS",
+      "category": "restaurantes",
+      "address": "WQCG+4W6, Huancayo 12003, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0797111,
+        "lng": -75.2227345
+      },
+      "phone": "993 565 774",
+      "website": "https://www.facebook.com/Las-Retamas-Restaurante-Campestre-332946657167211/",
+      "has_website": true,
+      "rating": 3.8,
+      "reviews": 77,
+      "google_maps_url": "https://maps.google.com/?cid=16002150332088576632",
+      "business_status": "OPERATIONAL",
+      "score": 35,
+      "priority": "low",
+      "opening_hours": [
+        "lunes: 11:00–17:00",
+        "martes: 11:00–17:00",
+        "miércoles: 11:00–17:00",
+        "jueves: 11:00–17:00",
+        "viernes: 10:00–18:00",
+        "sábado: 10:00–19:30",
+        "domingo: 7:30–17:00"
+      ]
+    },
+    {
+      "place_id": "ChIJ49RfF0eWDpERMVi6DgKUuW8",
+      "name": "Gran Oshero",
+      "category": "restaurantes",
+      "address": "Jirón Libertad 755, Huancayo 12004, Perú",
+      "district": "Huancayo",
+      "location": {
+        "lat": -12.0621015,
+        "lng": -75.2177036
+      },
+      "phone": "973 989 809",
+      "website": "https://www.facebook.com/Gran.Oshero",
+      "has_website": true,
+      "rating": 4,
+      "reviews": 418,
+      "google_maps_url": "https://maps.google.com/?cid=8050628545459410993",
+      "business_status": "OPERATIONAL",
+      "score": 50,
+      "priority": "medium",
+      "opening_hours": [
+        "lunes: Cerrado",
+        "martes: 9:00–16:15",
+        "miércoles: 9:00–16:15",
+        "jueves: 9:00–16:15",
+        "viernes: 9:00–16:15",
+        "sábado: 9:00–16:15",
+        "domingo: 9:00–16:15"
+      ]
+    }
+  ]
+}
