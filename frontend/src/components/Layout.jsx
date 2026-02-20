@@ -127,7 +127,7 @@ export default function Layout() {
                         </div>
 
                         <a
-                            href={selectedPlace.maps_url}
+                            href={selectedPlace.google_maps_url || selectedPlace.maps_url}
                             target="_blank"
                             rel="noopener noreferrer"
                             className="mt-3 block w-full bg-blue-600 text-white text-center py-2 rounded font-medium hover:bg-blue-700 transition"
